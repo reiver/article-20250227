@@ -84,8 +84,32 @@ Or does someone else get to decide, against your will
 
 Why does decentralization matter‽
 
-Decentralization is a means to an end.
-Decentralization is desired because it produces a desired outcome.
+Decentralization is a means to an end
+—
+it produces a desired outcome.
+It lets you escape something you feel is _bad_.
 
-You are better off if you can escape a bad situation.
-And, better off if you can escape it without being ruined in the process.
+The world is _less-worse_ and even a _better_ place when people, in general, can escape what they feel are _bad_ situation_.
+And, even better, if they can escape it without being ruined in the process.
+
+The decentralization of social-media lets you escape _bad_ situation on social-media.
+
+... examples ...
+
+A single server on any decentralized social-media (DeSo) network, whether Bluesky, the Fediverse, or anything else — is vulnerable to manipulation, censorship, spying, and control — whether corporate, gov't, political, or any other type — just like centralized social-media.
+
+A single server on the Fediverse is also vulnerable to capture & takeover — just like centralized social-media.
+
+But (unlike centralized social-media) here is the good thing about decentralized social-media (DeSo) —
+
+A user on the Fediverse has a way of escaping — to someone else's server or their own server — if they feel things have gotten _bad_ on the server they are on.
+
+And, they can take their followers and who they follow with them, etc, to the new account.
+
+And (eventually) they can take their content with them, too.
+
+And (if they are making their income on social-media) can take their livelihood with them, too, when they escape.
+
+That is part of the value of decentralization.
+
+You have a way of escaping — and a way of taking everything important with you.
