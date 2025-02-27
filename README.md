@@ -5,7 +5,9 @@ Recently Bluesky made the news again — this time, Bluesky was accused of censo
 And once again people wondered — how is it possible that Bluesky, which claims to be a decentralized social-media network (and thus not having the problems that centralized social-media does), is able to censor or moderate anyone or anything off of the whole network?
 And, is a social-media network that can in practice do this actually decentralized?
 
-Although, in many ways, Bluesky has been stuck _betweeen a rock and a hard place_ when it comes to moderation — they are _damned when you do and damned when you don't_
+Although, in many ways, Bluesky has been stuck _betweeen a rock and a hard place_ when it comes to moderation — they are _damned when you do and damned when you don't_.
+
+So, what happened‽
 
 ## What Was Censored
 
@@ -20,7 +22,25 @@ According to [Jason Koebler](https://mastodon.social/@jasonkoebler) of [404 Medi
 >
 > [Other Bluesky users](https://bsky.app/profile/gxldsociety.bsky.social/post/3liyevyytjs2s) said that [versions of the video they uploaded](https://bsky.app/profile/justnothavingit.bsky.social/post/3liymxxqts22h) were also deleted […].
 
+## Who
+
+Donald John Trump, the 45th and now 47th president of the United States of America, and traditionally, prior to becoming president of the United States, also widely thought of an exemplar of a rich, successful person.
+
+Elon Musk, a businessman known for ....
+
+## Political Speech
+
+## “Long Live The Real King”
+
+This AI-generated video is likely a reaction to ....
+
+And, is likely meant to 
+
+The content of the AI Generated video of President Trump and Elon Musk
+
 ## Bannon
+
+This ("LONG LIVE THE REAL KING") act of political speech
 
 This video is reminisent of ...
 
