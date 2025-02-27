@@ -34,15 +34,15 @@ Elon Musk, a businessman known for ....
 
 This AI-generated video is likely a reaction to ....
 
-And, is likely meant to 
+And, is likely meant to ...
 
-The content of the AI Generated video of President Trump and Elon Musk
+The content of the AI Generated video of President Trump and Elon Musk ...
 
 ## Bannon
 
-This ("LONG LIVE THE REAL KING") act of political speech
+This ("LONG LIVE THE REAL KING") video expression of political speech is reminisent of ... of Stephen Kevin Bannon.
 
-This video is reminisent of ...
+...
 
 ## Stuck Between A Rock And A Hard Place
 
