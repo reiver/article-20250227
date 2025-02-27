@@ -2,12 +2,13 @@
 
 Recently Bluesky made the news again — this time, Bluesky was accused of censoring political speech.
 
-And once again people wondered — how is it possible that Bluesky, which claims to be a decentralized social-media network (and thus not having the problems that centralized social-media does), is able to censor or moderate anyone or anything off of the whole network?
-And, is a social-media network that can in practice do this actually decentralized?
+And once again people wondered — how is it possible that Bluesky, a decentralized social-media network, is able to censor or moderate anyone or anything off of the whole network?
+Shouldn't decentralization make censorship impossible?
 
-Although, in many ways, Bluesky has been stuck _betweeen a rock and a hard place_ when it comes to moderation — they are _damned when you do and damned when you don't_.
+In many ways, Bluesky has been stuck _betweeen a rock and a hard place_ when it comes to moderation — they have been _damned when you do and damned when you don't_.
 
 So, what happened‽
+And, why does this matter‽
 
 ## What Was Censored
 
@@ -22,9 +23,18 @@ According to [Jason Koebler](https://mastodon.social/@jasonkoebler) of [404 Medi
 >
 > [Other Bluesky users](https://bsky.app/profile/gxldsociety.bsky.social/post/3liyevyytjs2s) said that [versions of the video they uploaded](https://bsky.app/profile/justnothavingit.bsky.social/post/3liymxxqts22h) were also deleted […].
 
+[Jason Koebler](https://mastodon.social/@jasonkoebler) later prepended the article to say:
+
+> Bluesky restored Kabas' post and told 404 Media the following: "This was a case of our moderators applying the policy for non-consensual AI content strictly. After re-evaluating the newsworthy context, the moderation team is reinstating those posts."
+
+[The full video can be seen on Marisa Kabas' Bluesky account.](https://bsky.app/profile/marisakabas.bsky.social/post/3liwlwvvq6k2s)
+
 ## Who
 
-Donald John Trump, the 45th and now 47th president of the United States of America, and traditionally, prior to becoming president of the United States, also widely thought of an exemplar of a rich, successful person.
+Donald John Trump is the (at the time of writing of this article) the 47th president of the United States of America.
+
+President Trump 
+the 45th and now (at the time of writing of this article) the 47th president of the United States of America, former host of the _reality_ TV show _The Apprentice_, and traditionally, prior to becoming president of the United States, also widely thought of an exemplar of a rich, successful person.
 
 Elon Musk, a businessman known for ....
 
@@ -72,13 +82,10 @@ Do YOU get to decide what YOU do and do not get exposed to?
 
 Or does someone else get to decide, against your will
 
-
-## Twitter Files
-
-## 
-
 ## AI Moderation
 
+
+## Twitter Files
 
 ## Why Decentralization Matters
 
@@ -113,3 +120,25 @@ And (if they are making their income on social-media) can take their livelihood 
 That is part of the value of decentralization.
 
 You have a way of escaping — and a way of taking everything important with you.
+
+## Decentralization Has Helped
+
+## TruthSocial
+
+It is perhaps interesting that one of the best examples of a politician using an independent social-media platform, based on decentralized social-media (DeSo) technologies  is — President Donland J. Trump on Truth Social.
+
+President Trump has had a Twitter account since March 2009, and had been active on Twitter long before he became the 45th (and 47th) president of the United Statues of America (POTUS).
+
+In the year 2015 and after, Mr. Trump's Twitter presence took on another significance — as he ran for and became the 45th POTUS.
+
+[In January 2021, President Trump's Twitter account was suspended.](https://blog.twitter.com/en_us/topics/company/2020/suspension)
+
+####
+
+Truth Social (also stylized as "TRUTH") became 
+
+
+
+...
+
+## Is Bluesky Decentralized
