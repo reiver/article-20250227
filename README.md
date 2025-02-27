@@ -12,6 +12,8 @@ This video is reminisent of ...
 
 ## Moderation, Censorship
 
+What is the difference between **moderation** and **censorship**‽
+
 ## Twitter Files
 
 ## 
