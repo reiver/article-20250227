@@ -2,7 +2,10 @@
 
 Recently Bluesky made the news again — this time, Bluesky was accused of censoring political speech.
 
-And once again people wondered — how is it possible that Bluesky, which claims to be a decentralized social-media network (and thus not having the problems that centralized social-media does), is able to censor anyone? Is a social-media network that can in practice censor anything or anyone across the whole network actually decentralized?
+And once again people wondered — how is it possible that Bluesky, which claims to be a decentralized social-media network (and thus not having the problems that centralized social-media does), is able to censor or moderate anyone or anything off of the whole network?
+And, is a social-media network that can in practice do this actually decentralized?
+
+Although, in many ways, Bluesky has been stuck _betweeen a rock and a hard place_ when it comes to moderation — they are _damned when you do and damned when you don't_
 
 ## What Was Censored
 
