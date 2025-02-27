@@ -81,3 +81,11 @@ Or does someone else get to decide, against your will
 
 
 ## Why Decentralization Matters
+
+Why does decentralization matter‽
+
+Decentralization is a means to an end.
+Decentralization is desired because it produces a desired outcome.
+
+You are better off if you can escape a bad situation.
+And, better off if you can escape it without being ruined in the process.
