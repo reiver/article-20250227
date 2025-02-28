@@ -5,6 +5,8 @@ And, in particular, political speech focused as President Trump and Elon Musk, i
 
 And, once again some people wondered — how is it possible that Bluesky, a decentralized social-media network, is able to censor or moderate anyone or anything off of the whole network?
 Shouldn't decentralization make this form of censorship impossible?
+Is Bluesky actually _decentralized_, as they claim‽
+Or is Bluesky just Twitter 2.0 — and every bit as _centralized_ as they were‽
 
 In many ways, Bluesky has been stuck _betweeen a rock and a hard place_ when it comes to moderation
 —
@@ -34,6 +36,8 @@ According to [Jason Koebler](https://mastodon.social/@jasonkoebler) of [404 Medi
 
 [The full video can be seen on Marisa Kabas' Bluesky account.](https://bsky.app/profile/marisakabas.bsky.social/post/3liwlwvvq6k2s)
 
+What was this protest video about‽
+
 ## Donald John Trump
 
 Donald John Trump is 47th president of the United States of America (POTUS).
@@ -50,20 +54,27 @@ Before his presidency, President Trump also made cameos in the movies
 "Two Weeks Notice" (2002),
 and
 "Scary Movie 5" (2013).
-And, also made appearances in various TV shows, includeing:
+And, also made appearances in various TV shows, including:
 "The Fresh Prince of Bel-Air",
 and
 "The Nanny".
 
+No president of the United States of America goes at it alone.
+He has a team behind him — which includes his cabinet and his advisors.
+
+One of President Trump's his senior advsiors and very public supports — Elon Musk — is, along with President Trump, the focus of the AI-generated protest video that went _viral_ before it was censored.
+
 ## Elon Reeve Musk
 
-Elon Reeve Musk is 
+Elon Reeve Musk is a businessman, ....
 
 Elon Musk, a businessman known for ....
 
+## Department of Government Efficiency (DOGE)
 
+The Department of Government Efficiency (DOGE) — whose name is a play on the **Doge meme** — is an initiative by President Trump second administration.
 
-## Political Speech
+...
 
 ## “Long Live The Real King”
 
