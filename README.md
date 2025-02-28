@@ -22,7 +22,7 @@ Is Bluesky really living up to its promises of decentralization, or is it just a
 In many ways, Bluesky has been stuck _betweeen a rock and a hard place_ when it comes to moderation.
 Bluesky’s moderation struggles over the years have sparked criticism from many sides.
 They have been criticized for both overreach and inaction, finding themselves stuck in a constant catch-22.
-They have been publicly critcized both when they have chosen to take a _hands-off_ approach to moderation, _and_ when they have chosen to takn a _hands-on_ approach to moderation.
+They have been publicly critcized both when they have chosen to take a _hands-off_ approach to moderation, _and_ when they have chosen to taken a _hands-on_ approach to moderation.
 They are _damned if you do and damned if you don't_ — and can’t seem to escape backlash.
 
 ## What Was Censored
@@ -48,12 +48,14 @@ What was this protest video about‽
 
 ## Donald John Trump
 
+The protest video was about three things — one of them being Presdent Trump.
+
 From real-estate mogul to reality TV star to President of the United States (POTUS), Donald John Trump’s rise to POTUS is unconventional.
 
-Donald John Trump is 47th president of the United States of America.
+Donald J. Trump is 47th president of the United States of America.
 And, at the time of writing, the sitting POTUS.
 
-President Trump is also the 45th POTUS, was the former host of the _reality_ TV show _The Apprentice_, is a well-known businessman, is a real-estate mogul, and traditionally has been widely thought of as an exemplar of a rich & successful person, and a symbol for status, wealth, and power.
+President Trump is also the 45th POTUS, was the former host of the _reality_ TV show _The Apprentice_, is a well-known businessman, is a real-estate mogul, and traditionally has been widely thought of as an exemplar of a rich & successful person, and a symbol for status, wealth, and power among many.
 
 Before his presidency, President Trump also made cameos in the movies
 "The Little Rascals" (1994),
@@ -69,20 +71,22 @@ And, also made appearances in various TV shows, including:
 and
 "The Nanny".
 
-No president of the United States of America goes at it alone.
+## Elon Reeve Musk
+
+The second of the three things the protest video is about is — Elon Musk.
+
+No president of the United States of America goes at it alone
 President Trump, like presidents before him, has a team behind him — which includes his cabinet and his advisors.
 
-One of President Trump's his senior advsiors, allies, and public supporters — Elon Musk — is, along with President Trump, the focus of the AI-generated protest video that went _viral_ before it was censored.
-
-The the AI-generated protest video is part of a controversy which has been swirling around President Trump and his ally, Elon Musk.
-
-## Elon Reeve Musk
+One of President Trump's senior advsiors, allies, and public supporters — Elon Musk — is, along with President Trump, a focus of the AI-generated protest video that went _viral_ before it was censored.
 
 Elon Reeve Musk is a businessman, ....
 
 Elon Musk, a businessman known for ....
 
 ## Department of Government Efficiency (DOGE)
+
+And, the third of the three things the protest video is about is — the Department of Government Efficiency (DOGE).
 
 Promoted by Elon Musk, Mr. Musk has described the Department of Government Efficiency (DOGE) as a transformative initiative aimed at streamlining government operations and reducing wasteful spending.
 He envisions DOGE as a "meritocratic federal government that rewards excellence," focusing on promoting high-performing government workers and implementing significant cost-saving measures.
