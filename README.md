@@ -123,21 +123,53 @@ You have a way of escaping — and a way of taking everything important with you
 
 ## Decentralization Has Helped
 
-## TruthSocial
+## Truth Social
 
-It is perhaps interesting that one of the best examples of a politician using an independent social-media platform, based on decentralized social-media (DeSo) technologies  is — President Donland J. Trump on Truth Social.
+It is perhaps interesting that one of the best examples of a politician using an independent social-media platform — and one based on decentralized social-media (DeSo) technologies — is: President Donland J. Trump on Truth Social.
 
 President Trump has had a Twitter account since March 2009, and had been active on Twitter long before he became the 45th (and 47th) president of the United Statues of America (POTUS).
 
-In the year 2015 and after, Mr. Trump's Twitter presence took on another significance — as he ran for and became the 45th POTUS.
+Starting in the year 2015, Mr. Trump's Twitter presence took on another significance — as he _ran for_ and _became_ the 45th POTUS.
+And, he and his Twitter account became the target of both _jeers_ and _cheers_ — as is not uncommon for many individuals who take on a political-life or political-office.
 
 [In January 2021, President Trump's Twitter account was suspended.](https://blog.twitter.com/en_us/topics/company/2020/suspension)
+This was a significant event.
+President Trump's Twitter account was a means by which he communicated in a more-or-less direct and unfiltered manner with hundreds-of-millions of people — perhaps more.
+To both his fans & supporters, as well as his critics & skeptics.
+When President Trump's Twitter account was suspended, that medium, that ability, disappeared for him.
 
-####
+A little more than one year later, on February 2022, Mr. Trump appeared online again.
+This time Mr. Trump appeared on a new social-media network named _Truth Social_.
 
-Truth Social (also stylized as "TRUTH") became 
+Truth Social is a Twitter-like social-media network — i.e., a micro-blogging social-media network.
 
+Truth Social runs on a modified version of the Mastodon software.
+And, although Truth Social is currently **not** part of the Fediverse — this is the same Mastodon software that powers a large portion of the Fediverse.
 
+Mastodon (like much of the software that powers the Fediverse) is free and open-source software (FOSS) — and _anyone_ can use it.
+Including Truth Social.
+
+And, just like the many minorities, political dissidents, activists, and others that used Mastdon as a way of escaping a _bad_ situation — so too did Mr. Trump.
+
+## Mastodon Users
+
+Mastodon is the same software that has been used to create a safe home for many minorities, for political dissidents, for activists, and more.
+And, Mastodon is also the software that powers Truth Social.
+
+Some argue that we should _cherry-pick_ who may and may not use software such as Mastodon.
+
+Others (including some critics & skeptics of President Trump) will argue that — the power to cherry-pick like that will create a much, much worse situation.
+That the power to cherry-pick would also give people the power to discrimate against minorities, for political dissidents, for activists, and more.
+And, that is worse.
+
+> The cure is worse than the "disease".
+
+Perhaps that phrase the general sentiment.
+
+Others (including some critics & skeptics of President Trump) will argue that this is a good thing.
+That the alternative is worse.
+
+That with an alternative to this, that would ##### the _the cure would be worse than the "disease"_.
 
 ...
 
