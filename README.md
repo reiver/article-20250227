@@ -1,26 +1,29 @@
-# Can Bluesky & the Fediverse Censor
+# Is Bluesky Falling Into Twitter’s Trap? The Censorship Controversy
 
-Bluesky's claim of decentralization is under fire — is it really living up to the hype?
-Recently accused of censoring political speech targeting President Trump and Elon Musk, the platform is facing tough questions about its true nature.
-Is Bluesky just Twitter 2.0 in disguise, or is it caught in a moderation nightmare?
+Bluesky's handling of political speech and claim of decentralization is under fire — is it really living up to the hopes and the hype‽
+Recently accused of censoring political speech targeting President Trump and Elon Musk, Bluesky is facing tough questions about its true nature, its authenticity, and its approach.
+Is Bluesky simply Twitter 2.0 in disguise, or is it caught in a moderation nightmare?
 Let’s dive in and uncover the truth behind the controversy.
 
 ## Moderation or Censorship
 
-Recently Bluesky made the news again — this time, Bluesky was accused of censoring political speech.
-And, in particular, political speech focused as President Trump and Elon Musk, in the form of an AI-generated protest video that went _viral_ before it was censored.
+Bluesky is back in the headlines — but this time, it is facing accusations of censoring political speech.
+The controversy centers around a viral AI-generated protest video targeting President Trump and Elon Musk, which was removed by the Bluesky team from the Bluesky platform.
 
-This political speech is likely a reaction to activities of the new Department of Government Efficiency (DOGE), created by President Trump and promoted by Elon Musk.
+The protest video was likely a response to activities engaged in by the newly created Department of Government Efficiency (DOGE), an initiative promoted by both President Trump and Elon Musk.
 
-Bluesky's censorship of the protest video once again had some people wondering — how is it possible that Bluesky, a decentralized social-media network, is able to censor or moderate anyone or anything off of the whole network?
-Shouldn't decentralization make this form of censorship impossible?
-Is Bluesky actually _decentralized_, as they claim‽
-Or is Bluesky just Twitter 2.0 — and every bit as _centralized_ and susceptible to censorship, manipulation, capture, and take-over as Twitter was‽
+But there is big question:
+how can Bluesky, a decentralized platform, censor content at all?
+How can they remove content from the entire Bluesky network?
+Shouldn’t decentralization make such censorship impossible?
+Is Bluesky actually decentralized?
+Is Bluesky really living up to its promises of decentralization, or is it just another version of Twitter — equally prone to manipulation, censorship, and control?
 
-In many ways, Bluesky has been stuck _betweeen a rock and a hard place_ when it comes to moderation
-—
-they have been publicly criticized both when they have taken a _hands-off_ approach to moderation, _and_ when they have taken a _hands-on_ approach to moderation.
-I.e., they are _damned if you do and damned if you don't_.
+In many ways, Bluesky has been stuck _betweeen a rock and a hard place_ when it comes to moderation.
+Bluesky’s moderation struggles over the years have sparked criticism from many sides.
+They have been criticized for both overreach and inaction, finding themselves stuck in a constant catch-22.
+They have been publicly critcized both when they have chosen to take a _hands-off_ approach to moderation, _and_ when they have chosen to takn a _hands-on_ approach to moderation.
+They are _damned if you do and damned if you don't_ — and can’t seem to escape backlash.
 
 ## What Was Censored
 
@@ -39,7 +42,7 @@ According to [Jason Koebler](https://mastodon.social/@jasonkoebler) of [404 Medi
 
 > Bluesky restored Kabas' post and told 404 Media the following: "This was a case of our moderators applying the policy for non-consensual AI content strictly. After re-evaluating the newsworthy context, the moderation team is reinstating those posts."
 
-[The full video can be seen on Marisa Kabas' Bluesky account.](https://bsky.app/profile/marisakabas.bsky.social/post/3liwlwvvq6k2s)
+[The full video can be seen on Marisa Kabas' Bluesky account](https://bsky.app/profile/marisakabas.bsky.social/post/3liwlwvvq6k2s) again, since it was restored.
 
 What was this protest video about‽
 
