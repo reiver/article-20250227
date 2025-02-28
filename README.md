@@ -1,11 +1,15 @@
 # Can Bluesky & the Fediverse Censor
 
 Recently Bluesky made the news again — this time, Bluesky was accused of censoring political speech.
+And in particular, political speech focused as President Trump and Elon Musk.
 
-And once again people wondered — how is it possible that Bluesky, a decentralized social-media network, is able to censor or moderate anyone or anything off of the whole network?
-Shouldn't decentralization make censorship impossible?
+And, once again some people wondered — how is it possible that Bluesky, a decentralized social-media network, is able to censor or moderate anyone or anything off of the whole network?
+Shouldn't decentralization make this form of censorship impossible?
 
-In many ways, Bluesky has been stuck _betweeen a rock and a hard place_ when it comes to moderation — they have been _damned when you do and damned when you don't_.
+In many ways, Bluesky has been stuck _betweeen a rock and a hard place_ when it comes to moderation
+—
+they have been publicly criticized both when they have take a _hands-off_ approach to moderation, and they take a _hands-on_ approach to moderation.
+I.e., they are _damned if you do and damned if you don't_.
 
 So, what happened‽
 And, why does this matter‽
