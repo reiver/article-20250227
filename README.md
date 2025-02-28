@@ -1,5 +1,12 @@
 # Can Bluesky & the Fediverse Censor
 
+Bluesky's claim of decentralization is under fire — is it really living up to the hype?
+Recently accused of censoring political speech, the platform is facing tough questions about its true nature.
+Is Bluesky just Twitter 2.0 in disguise, or is it caught in a moderation nightmare?
+Let’s dive in and uncover the truth behind the controversy."
+
+## Moderation or Censorship
+
 Recently Bluesky made the news again — this time, Bluesky was accused of censoring political speech.
 And, in particular, political speech focused as President Trump and Elon Musk, in the form of an AI-generated protest video that went _viral_ before it was censored.
 
@@ -12,10 +19,6 @@ In many ways, Bluesky has been stuck _betweeen a rock and a hard place_ when it 
 —
 they have been publicly criticized both when they have taken a _hands-off_ approach to moderation, _and_ when they have taken a _hands-on_ approach to moderation.
 I.e., they are _damned if you do and damned if you don't_.
-
-So, what happened‽
-And, why does this matter‽
-Let's dig in.
 
 ## What Was Censored
 
