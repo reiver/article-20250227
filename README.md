@@ -10,7 +10,9 @@ Let’s dive in and uncover the truth behind the controversy.
 Recently Bluesky made the news again — this time, Bluesky was accused of censoring political speech.
 And, in particular, political speech focused as President Trump and Elon Musk, in the form of an AI-generated protest video that went _viral_ before it was censored.
 
-And, once again some people wondered — how is it possible that Bluesky, a decentralized social-media network, is able to censor or moderate anyone or anything off of the whole network?
+This political speech is likely a reaction to activities of the new Department of Government Efficiency (DOGE), created by President Trump and promoted by Elon Musk.
+
+Bluesky's censorship of the protest video once again had some people wondering — how is it possible that Bluesky, a decentralized social-media network, is able to censor or moderate anyone or anything off of the whole network?
 Shouldn't decentralization make this form of censorship impossible?
 Is Bluesky actually _decentralized_, as they claim‽
 Or is Bluesky just Twitter 2.0 — and every bit as _centralized_ and susceptible to censorship, manipulation, capture, and take-over as Twitter was‽
@@ -79,7 +81,12 @@ Elon Musk, a businessman known for ....
 
 ## Department of Government Efficiency (DOGE)
 
-The Department of Government Efficiency (DOGE) — whose name is a play on the **Doge meme** — is an initiative by President Trump second administration.
+Promoted by Elon Musk, Mr. Musk has described the Department of Government Efficiency (DOGE) as a transformative initiative aimed at streamlining government operations and reducing wasteful spending.
+He envisions DOGE as a "meritocratic federal government that rewards excellence," focusing on promoting high-performing government workers and implementing significant cost-saving measures.
+
+The Department of Government Efficiency (DOGE) — whose name is a play on the **Doge meme** — is an initiative by President Trump's second administration.
+The DOGE was officially created by President Trump on January 20th, 2025 by [executive order 14158](https://www.federalregister.gov/documents/2025/01/29/2025-02005/establishing-and-implementing-the-presidents-department-of-government-efficiency).
+
 
 ...
 
