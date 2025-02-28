@@ -1,7 +1,7 @@
 # Can Bluesky & the Fediverse Censor
 
 Recently Bluesky made the news again — this time, Bluesky was accused of censoring political speech.
-And in particular, political speech focused as President Trump and Elon Musk, in the form of an AI-generated protest video that went _viral_ before it was censored.
+And, in particular, political speech focused as President Trump and Elon Musk, in the form of an AI-generated protest video that went _viral_ before it was censored.
 
 And, once again some people wondered — how is it possible that Bluesky, a decentralized social-media network, is able to censor or moderate anyone or anything off of the whole network?
 Shouldn't decentralization make this form of censorship impossible?
@@ -13,6 +13,7 @@ I.e., they are _damned if you do and damned if you don't_.
 
 So, what happened‽
 And, why does this matter‽
+Let's dig in.
 
 ## What Was Censored
 
@@ -38,7 +39,7 @@ According to [Jason Koebler](https://mastodon.social/@jasonkoebler) of [404 Medi
 Donald John Trump is 47th president of the United States of America (POTUS).
 And, at the time of writing, the sitting POTUS.
 
-President Trump was also the 45th POTUS, the former host of the _reality_ TV show _The Apprentice_, a well-known businessman, and traditionally, prior to becoming president of the United States, also widely thought of as an exemplar of a rich & successful person.
+President Trump is also the 45th POTUS, was the former host of the _reality_ TV show _The Apprentice_, is a well-known businessman, is a real-estate mogul, and traditionally has been widely thought of as an exemplar of a rich & successful person, and a symbol for status, wealth, and power.
 
 Before his presidency, President Trump also made cameos in the movies
 "The Little Rascals" (1994),
@@ -49,7 +50,7 @@ Before his presidency, President Trump also made cameos in the movies
 "Two Weeks Notice" (2002),
 and
 "Scary Movie 5" (2013).
-And also made appearances in various TV shows, includeing:
+And, also made appearances in various TV shows, includeing:
 "The Fresh Prince of Bel-Air",
 and
 "The Nanny".
@@ -137,9 +138,9 @@ A user on the Fediverse has a way of escaping — to someone else's server or th
 
 And, they can take their followers and who they follow with them, etc, to the new account.
 
-And (eventually) they can take their content with them, too.
+And, (eventually) they can take their content with them, too.
 
-And (if they are making their income on social-media) can take their livelihood with them, too, when they escape.
+And, (if they are making their income on social-media) can take their livelihood with them, too, when they escape.
 
 That is part of the value of decentralization.
 
