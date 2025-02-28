@@ -1,14 +1,14 @@
 # Can Bluesky & the Fediverse Censor
 
 Recently Bluesky made the news again — this time, Bluesky was accused of censoring political speech.
-And in particular, political speech focused as President Trump and Elon Musk.
+And in particular, political speech focused as President Trump and Elon Musk, in the form of an AI-generated protest video that went _viral_ before it was censored.
 
 And, once again some people wondered — how is it possible that Bluesky, a decentralized social-media network, is able to censor or moderate anyone or anything off of the whole network?
 Shouldn't decentralization make this form of censorship impossible?
 
 In many ways, Bluesky has been stuck _betweeen a rock and a hard place_ when it comes to moderation
 —
-they have been publicly criticized both when they have take a _hands-off_ approach to moderation, and they take a _hands-on_ approach to moderation.
+they have been publicly criticized both when they have taken a _hands-off_ approach to moderation, _and_ when they have taken a _hands-on_ approach to moderation.
 I.e., they are _damned if you do and damned if you don't_.
 
 So, what happened‽
@@ -35,10 +35,9 @@ According to [Jason Koebler](https://mastodon.social/@jasonkoebler) of [404 Medi
 
 ## Who
 
-Donald John Trump is the (at the time of writing of this article) the 47th president of the United States of America.
+Donald John Trump is (at the time of writing of this article) the 47th president of the United States of America (POTUS).
 
-President Trump 
-the 45th and now (at the time of writing of this article) the 47th president of the United States of America, former host of the _reality_ TV show _The Apprentice_, and traditionally, prior to becoming president of the United States, also widely thought of an exemplar of a rich, successful person.
+President Trump was also the 45th POTUS, former host of the _reality_ TV show _The Apprentice_, a well-known businessman, and traditionally, prior to becoming president of the United States, also widely thought of an exemplar of a rich & successful person.
 
 Elon Musk, a businessman known for ....
 
