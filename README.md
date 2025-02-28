@@ -1,9 +1,9 @@
 # Can Bluesky & the Fediverse Censor
 
 Bluesky's claim of decentralization is under fire — is it really living up to the hype?
-Recently accused of censoring political speech, the platform is facing tough questions about its true nature.
+Recently accused of censoring political speech targeting President Trump and Elon Musk, the platform is facing tough questions about its true nature.
 Is Bluesky just Twitter 2.0 in disguise, or is it caught in a moderation nightmare?
-Let’s dive in and uncover the truth behind the controversy."
+Let’s dive in and uncover the truth behind the controversy.
 
 ## Moderation or Censorship
 
@@ -13,7 +13,7 @@ And, in particular, political speech focused as President Trump and Elon Musk, i
 And, once again some people wondered — how is it possible that Bluesky, a decentralized social-media network, is able to censor or moderate anyone or anything off of the whole network?
 Shouldn't decentralization make this form of censorship impossible?
 Is Bluesky actually _decentralized_, as they claim‽
-Or is Bluesky just Twitter 2.0 — and every bit as _centralized_ as they were‽
+Or is Bluesky just Twitter 2.0 — and every bit as _centralized_ and susceptible to censorship, manipulation, capture, and take-over as Twitter was‽
 
 In many ways, Bluesky has been stuck _betweeen a rock and a hard place_ when it comes to moderation
 —
@@ -43,7 +43,9 @@ What was this protest video about‽
 
 ## Donald John Trump
 
-Donald John Trump is 47th president of the United States of America (POTUS).
+From real-estate mogul to reality TV star to President of the United States (POTUS), Donald John Trump’s rise to POTUS is unconventional.
+
+Donald John Trump is 47th president of the United States of America.
 And, at the time of writing, the sitting POTUS.
 
 President Trump is also the 45th POTUS, was the former host of the _reality_ TV show _The Apprentice_, is a well-known businessman, is a real-estate mogul, and traditionally has been widely thought of as an exemplar of a rich & successful person, and a symbol for status, wealth, and power.
@@ -63,9 +65,11 @@ and
 "The Nanny".
 
 No president of the United States of America goes at it alone.
-He has a team behind him — which includes his cabinet and his advisors.
+President Trump, like presidents before him, has a team behind him — which includes his cabinet and his advisors.
 
-One of President Trump's his senior advsiors and very public supports — Elon Musk — is, along with President Trump, the focus of the AI-generated protest video that went _viral_ before it was censored.
+One of President Trump's his senior advsiors, allies, and public supporters — Elon Musk — is, along with President Trump, the focus of the AI-generated protest video that went _viral_ before it was censored.
+
+The the AI-generated protest video is part of a controversy which has been swirling around President Trump and his ally, Elon Musk.
 
 ## Elon Reeve Musk
 
