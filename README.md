@@ -33,13 +33,34 @@ According to [Jason Koebler](https://mastodon.social/@jasonkoebler) of [404 Medi
 
 [The full video can be seen on Marisa Kabas' Bluesky account.](https://bsky.app/profile/marisakabas.bsky.social/post/3liwlwvvq6k2s)
 
-## Who
+## Donald John Trump
 
-Donald John Trump is (at the time of writing of this article) the 47th president of the United States of America (POTUS).
+Donald John Trump is 47th president of the United States of America (POTUS).
+And, at the time of writing, the sitting POTUS.
 
-President Trump was also the 45th POTUS, former host of the _reality_ TV show _The Apprentice_, a well-known businessman, and traditionally, prior to becoming president of the United States, also widely thought of an exemplar of a rich & successful person.
+President Trump was also the 45th POTUS, the former host of the _reality_ TV show _The Apprentice_, a well-known businessman, and traditionally, prior to becoming president of the United States, also widely thought of as an exemplar of a rich & successful person.
+
+Before his presidency, President Trump also made cameos in the movies
+"The Little Rascals" (1994),
+"Caddieshack II" (1988),
+"Home Alone 2: Lost in New York" (1992), 
+"The First Wives Club" (1996),
+"Zoolander" (2001),
+"Two Weeks Notice" (2002),
+and
+"Scary Movie 5" (2013).
+And also made appearances in various TV shows, includeing:
+"The Fresh Prince of Bel-Air",
+and
+"The Nanny".
+
+## Elon Reeve Musk
+
+Elon Reeve Musk is 
 
 Elon Musk, a businessman known for ....
+
+
 
 ## Political Speech
 
