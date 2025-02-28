@@ -44,11 +44,16 @@ According to [Jason Koebler](https://mastodon.social/@jasonkoebler) of [404 Medi
 
 [The full video can be seen on Marisa Kabas' Bluesky account](https://bsky.app/profile/marisakabas.bsky.social/post/3liwlwvvq6k2s) again, since it was restored.
 
-What was this protest video about‽
+## What Was Being Protested
+
+What was this AI-generated protest video about‽
+
+The protest video was about three things — Presdent Trump, Elon Musk, and the Department of Government Efficiency (DOGE).
+And, in particular, perhaps what the DOGE is believed to have been doing on behalf of President Trump and Elon Musk.
+
+The protest video may have also been an attempt to drive a wedge between President Trump and Elon Musk — perhaps a political maneuver similar to the wedge that was driven between the then 45th POST, President Trump, and Steve Bannon.
 
 ## Donald John Trump
-
-The protest video was about three things — one of them being Presdent Trump.
 
 From real-estate mogul to reality TV star to President of the United States (POTUS), Donald John Trump’s rise to POTUS is unconventional.
 
@@ -59,26 +64,23 @@ President Trump is also the 45th POTUS, was the former host of the _reality_ TV 
 
 Before his presidency, President Trump also made cameos in the movies
 "The Little Rascals" (1994),
-"Caddieshack II" (1988),
 "Home Alone 2: Lost in New York" (1992), 
-"The First Wives Club" (1996),
 "Zoolander" (2001),
-"Two Weeks Notice" (2002),
 and
-"Scary Movie 5" (2013).
+"Two Weeks Notice" (2002).
 And, also made appearances in various TV shows, including:
 "The Fresh Prince of Bel-Air",
 and
 "The Nanny".
 
-## Elon Reeve Musk
+On January 20th, 2025, President Trump officially created the DOGE by [executive order 14158](https://www.federalregister.gov/documents/2025/01/29/2025-02005/establishing-and-implementing-the-presidents-department-of-government-efficiency).
 
-The second of the three things the protest video is about is — Elon Musk.
+## Elon Reeve Musk
 
 No president of the United States of America goes at it alone
 President Trump, like presidents before him, has a team behind him — which includes his cabinet and his advisors.
 
-One of President Trump's senior advsiors, allies, and public supporters — Elon Musk — is, along with President Trump, a focus of the AI-generated protest video that went _viral_ before it was censored.
+One of President Trump's senior advsiors, allies, and public supporters — Elon Musk — has been a public advocate for the Department of Government Efficiency (DOGE).
 
 Elon Reeve Musk is a businessman, ....
 
