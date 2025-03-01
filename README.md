@@ -14,7 +14,7 @@ The protest video was likely a response to activities engaged in by the newly cr
 
 But there is big question:
 how can Bluesky, a decentralized platform, censor content at all?
-How can they remove content from the entire Bluesky network?
+How was it possible for them to remove content from the entire Bluesky network?
 Shouldn’t decentralization make such censorship impossible?
 Is Bluesky actually decentralized?
 Is Bluesky really living up to its promises of decentralization, or is it just another version of Twitter — equally prone to manipulation, censorship, and control?
@@ -77,13 +77,15 @@ As well as, blame him for division in the U.S. and many political ills.
 There is an ongoing debate as to whether President Trump's rise to POTUS caused the division & political ills or is a result of pre-existing division & political ills.
 I.e., what (if any) is the direction causation?
 
-Perhaps unknown or forgotten by many, before his presidency, President Trump also made cameos in the movies
+Perhaps unknown or forgotten by many, before his presidency President Trump also made cameos in a number movies
+—
+including:
 "The Little Rascals" (1994),
 "Home Alone 2: Lost in New York" (1992), 
 "Zoolander" (2001),
 and
 "Two Weeks Notice" (2002).
-And, also made appearances in various TV shows, including:
+Also, he made appearances in various TV shows, including:
 "The Fresh Prince of Bel-Air",
 and
 "The Nanny".
@@ -126,7 +128,7 @@ not only has Elon Musk has been a public advocate for the Department of Governme
 —
 Elon Musk is publicly understood to be the _de facto_ head of the DOGE.
 
-So, perhaps the protestors' political strategy is to, _take out the leader_ to slowdown or stop the DOGE, and make it ineffectual.
+So, perhaps the protestors' political strategy is to, _take out the deputy_ to slowdown or stop the DOGE, and make it ineffectual.
 
 ## Department of Government Efficiency (DOGE)
 
@@ -147,11 +149,11 @@ The AI-generated video is overlayed with the text:
 > Long Live The Real King
 
 This is likely meant to be a message for President Trump.
-This is likely meant to evoke a response from President Trump.
+And, likely meant to evoke a response from President Trump.
 
 Perhaps meant to enrage President Trump — by suggesting that he is subordinate to Mr. Musk, rather than the other way around.
 In the hopes that an engaged Trump will remove Elon Musk as the _de facto_ head of the DOGE.
-Thus ??? the DOGE.
+Thus making the DOGE ineffectual.
 
 ## Steve Bannon
 
@@ -162,17 +164,37 @@ In particular, that time suggesting President Trump was subordinate to his forme
 
 Steve Bannon is ....
 
-After the cartoon surfaces, after seven months of serving as chief strategist in President Trump's first term, Mr. Bannon was discharged from his position.
+After the cartoon surfaced, after seven months of serving as chief strategist in President Trump's first term, Mr. Bannon was discharged from his position by President Trump.
 Mr. Bannon was no longer part of President Trump's team.
 
 That time the cartoon may have worked — Mr. Bannon was gone.
 But, will the AI-generated protest video have the same effect with respect to Mr. Musk — will Mr. Musk be gone, too?
 
-## Why Was It Censored
+## Why Was It Censored And Then Uncensored
 
 Why was the AI-generated protest video censorshed from the Bluesky platform‽
 
 According to [Jason Koebler](https://mastodon.social/@jasonkoebler) of [404 Media](https://www.404media.co/bluesky-deletes-ai-protest-video-of-trump-sucking-musks-toes-calls-it-non-consensual-explicit-material/):
+
+> Bluesky deleted a viral, AI-generated protest video in which Donald Trump is sucking on Elon Musk’s toes because its moderators said it was “non-consensual explicit material.”
+
+Section 2.E. of [Bluesky's Community Guidelines](https://bsky.social/about/support/community-guidelines) does indeed seem to speak on this:
+
+> 2. Treat others with respect. For example, no:
+>  
+> A. Harassment or abuse directed at a specific person or group, including but not limited to, sexual harassment and gender identity-based harassment
+> 
+> B. Promoting hate or extremist conduct that targets people or groups based on their race, gender, religion, ethnicity, nationality, disability, or sexual orientation
+> 
+> C. Threats of violence or physical harm, or content that encourages, promotes, or glorifies violence against people, groups, or animals
+> 
+> D. Encouraging self-harm or suicide
+> 
+> <mark>E. Depictions of excessive violence, gore, torture, dismemberment, or non-consensual sexual activity</mark>
+> 
+> F. Misleading impersonation of other individuals, organizations, or entities
+
+The Bluesky moderator did seem to be following Bluesky's Community Guidelines when he or she censored AI-generated protest video — and yet, it was later uncensored and restored.
 
 ...
 
@@ -181,10 +203,17 @@ In the U.S., the first amdendment is often considered sacrosanct.
 > Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
 
 Included in this text is the concept of _freedom of speech_.
-In particular, the point of view of law — and ....
+In particular, _freedom of speech_ as law — a restriction on what the U.S. government is permitted to do.
 
-But in the U.S, _freedom of speech_ as social-form (that goes beyond the requirements of the law) is common, too.
-...
+But, Bluesky is not the U.S. government.
+This form of _freedom of speech_ would _not_ apply to them.
+
+However, in the U.S, _freedom of speech_ as social-norm (that goes beyond the requirements of the law) is common, too.
+The idea that ....
+And, perhaps captured by the children's rhyme:
+
+> Sticks and stones may break my bones,  
+> but words [including abusive language and insults] shall never hurt me. 
 
 ...
 
@@ -306,6 +335,18 @@ Others (including some critics & skeptics of President Trump) will argue that th
 That the alternative is worse.
 
 That with an alternative to this, that would ##### the _the cure would be worse than the "disease"_.
+
+...
+
+## What is Decentralization
+
+...
+
+escape
+
+...
+
+vote with your feet
 
 ...
 
