@@ -19,7 +19,7 @@ Shouldn’t decentralization make such censorship impossible?
 Is Bluesky actually decentralized?
 Is Bluesky really living up to its promises of decentralization, or is it just another version of Twitter — equally prone to manipulation, censorship, and control?
 
-In many ways, Bluesky has been stuck _betweeen a rock and a hard place_ when it comes to moderation.
+In many ways, Bluesky has been stuck _between a rock and a hard place_ when it comes to moderation.
 Bluesky’s moderation struggles over the years have sparked criticism from many sides.
 They have been criticized for both overreach and inaction, finding themselves stuck in a constant catch-22.
 They have been publicly critcized both when they have chosen to take a _hands-off_ approach to moderation, _and_ when they have chosen to taken a _hands-on_ approach to moderation.
@@ -204,7 +204,7 @@ We can only speculate, but I suspect that — if there was no backlash, then the
 
 ## Stuck Between A Rock And A Hard Place
 
-In some ways, Bluesky is stuck _betweeen a rock and a hard place_ — do they moderate or do they _not_ moderate‽
+In some ways, Bluesky is stuck _between a rock and a hard place_ — do they moderate or do they _not_ moderate‽
 They seem to be _damned if you do and damned if you don't_ — and stuck _between the devil and the deep blue sea_.
 
 Bluesky initially took a hands-off approach to moderation.
@@ -212,54 +212,67 @@ A policy that was _cheered_ by many, later attracted _jeers_.
 
 In July 2023, [Bluesky attracted jeers and controversy](https://techcrunch.com/2023/07/27/bluesky-racism-slur-apology-feedback/) when Bluesky was criticized for not preventing racist content.
 
-As a reaction to this, BLuesky decided to take a hands-on apporach and moderate
+As a reaction to this, Bluesky decided to take a hands-on apporach and moderate
 —
 they created the [Bluesky community guidelines](https://bsky.social/about/support/community-guidelines) and hired moderators.
 
 Fans of the prior hands-off approach may see this change as heavy-handed, a violation of social-norms around freedom of speech, and a _cure that is worse than the disease_.
 
-However, this is constrasted by fans of the hands-of approach, who may see it as, a reasonable attempt by Bluesky to protect is users.
+However, this is constrasted by fans of the hands-on approach, who may see it as, a reasonable attempt by Bluesky to protect its users through the use of moderation.
 
-And yet, this _reasonable attempt by Bluesky to protect is users_ through moderation resulted in a backlash and new controversy. 
+And yet, this _reasonable attempt by Bluesky to protect is users through moderation_ resulted in a backlash and new controversy. 
 
 It feels as if Bluesky will be blamed if they _do_ take action and and will (also) be blamed if the _don't_ take action.
 
 ## Protests and Freedom of Speech
 
-Maybe part of the conflict is around what tends to get called _freedom of speech_.
+Maybe part of this conflict can be better understood through what tends to get called _freedom of speech_.
 
 In the U.S., the first amdendment is often considered sacrosanct.
 
 > Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
 
 Included in this text is the concept of _freedom of speech_.
-In particular, _freedom of speech_ as law — a restriction on what the U.S. government is permitted to do.
+In particular, _freedom of speech_ as law — a particular set of restrictions on what the U.S. government is permitted to do.
 
 But, Bluesky is not the U.S. government.
 This form of _freedom of speech_ would _not_ apply to them.
 
-However, in the U.S, _freedom of speech_ as social-norm (that goes beyond the requirements of the law) is common, too.
+However, in the U.S., _freedom of speech_ as social-norm (that goes beyond the requirements of the law) is common, too.
 The idea that ....
 And, perhaps captured by the children's rhyme:
 
 > Sticks and stones may break my bones,  
-> but words [including abusive language and insults] shall never hurt me. 
+> but words [such as _abusive language_ and _insults_] shall never hurt me. 
 
-...
+Should there be _freedom of speech_ (as a social-norm) on Bluesky or not?
 
-## Political Bias
+Some say "yes".
+Some say "no".
 
-## Moderation, Censorship
+Protests are often protected due to both _freedom of speech_ law and norms.
+So, what happens when _freedom of speech_ norms are not only ignored but spurned.
 
-What is the difference between **moderation** and **censorship**‽
+It there a way to _univesally_ protect protests without _freedom of speech_?
+Or have those who said "no" to _freedom of speech_ but were against the censoring he protest video — have they _foot-gunned_ themselves?
 
-I any people's minds, these words ha
+## Moderation versus Censorship
 
-It is true that, in practice, "Moderation" and "Censorship" have the same meaning
+There is a discussion to had about _moderation_ versus _censorship_.
 
-(It is just that the connotation is different  — one is usually seen as positive where the other is usually seen as negative)
+What is the difference between them‽
+Is there a difference between them‽
+Are they just different words for the same thing‽ — similar to "_and_" and "_but_"‽
 
-The problem is not that there is Moderation / Censorship per se —
+I will argue that in practice, in this context, that there is no semantic difference between the two.
+In practice, _moderation_ and _censorship_ are semantically same thing — although perhaps differ in connotation — just like the words "_and_" and "_but_"
+I.e., you call _censorship_ that you like "_moderation_"; and you call _moderation_ that you don't like "_censorship_".
+
+But I think focusing on that missing an important point —
+
+Yes, it is true that, in practice, "Moderation" and "Censorship" have the same meaning.
+
+But, the problem is not that there is Moderation / Censorship per se —
 
 The problem is WHO is in control of it —
 
@@ -267,10 +280,17 @@ You? Or someone else?
 
 Do YOU get to decide what YOU do and do not get exposed to?
 
-Or does someone else get to decide, against your will
+Or does someone else get to decide, against your will.
 
 ## AI Moderation
 
+AI has been in the news a lot lately.
+
+Some see AI as a panacea to moderation woes.
+
+AI moderation has been around with us for a long time.
+
+...
 
 ## Twitter Files
 
