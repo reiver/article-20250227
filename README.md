@@ -46,19 +46,22 @@ According to [Jason Koebler](https://mastodon.social/@jasonkoebler) of [404 Medi
 
 ## What Was Being Protested
 
-What was this AI-generated protest video about‽
+This AI-generated protest video is causing a fuss — but what is it really about‽
 
-Watching the protest video, it is obvious that there are (at least) 2 things that it is about —  Presdent Trump, and Elon Musk.
+Watching the video, it is clear that it focuses on at least two major figures — President Trump, and Elon Musk.
 
-But, there is also a third thing the protest video is likely about — the Department of Government Efficiency (DOGE)
-And, in particular, likely what the DOGE is believed to have been doing on behalf of President Trump and Elon Musk.
+However, there is likely a third major element in the mix.
+A subtext that motivates the protest — the Department of Government Efficiency (DOGE).
+In particular, what the DOGE is believed to have been doing on behalf of both President Trump, and Elon Musk.
 
-In addition to this, this protest video may have also been an attempt to drive a wedge between President Trump and Elon Musk
+This is speculation, but
 —
-perhaps utilizing a political strategy similar to the wedge that was driven between President Trump and Steve Bannon, during President Trump's first term as POTUS.
-As an attempt to slowdown if not stop the DOGE, by removing Elon Musk from the picture.
+the protest video may also be attempting to create division between President Trump and Elon Musk
+—
+possibly using a political strategy reminiscent of the wedge that was driven between President Trump and Steve Bannon during President Trump's first term.
+Perhaps this be an effort to slow down, or even stop, the DOGE by remomving Mr. Musk from the picture?
 
-Let's dig into this more.
+Let's unpack this further.
 
 ## Donald John Trump
 
@@ -69,7 +72,7 @@ And, at the time of writing, the sitting POTUS.
 
 President Trump is also the 45th POTUS, was the former host of the _reality_ TV show _The Apprentice_, is a well-known businessman, and traditionally has been widely thought of as an exemplar of a rich & successful person, and a symbol for status, wealth, and power among many.
 
-Before his presidency, President Trump also made cameos in the movies
+Perhaps unknown or forgotten by many, before his presidency, President Trump also made cameos in the movies
 "The Little Rascals" (1994),
 "Home Alone 2: Lost in New York" (1992), 
 "Zoolander" (2001),
@@ -79,6 +82,8 @@ And, also made appearances in various TV shows, including:
 "The Fresh Prince of Bel-Air",
 and
 "The Nanny".
+
+Mr. Trump was famous _long before_ he became POTUS.
 
 Related to the AI-generated protest video
 —
