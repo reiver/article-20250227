@@ -118,6 +118,7 @@ Mr. Musk is sometimes compared to the Marvel Cinematic Universe (MCU)'s _Tony St
 —
 as a real-life _Iron Man_.
 Although, Mr. Musk's opponents, critics, and detractors would likely characterize Mr. Musk as another of MCU _Tony Stark_'s alter-egos — the MCU villain Doctor Doom.
+Mr. Musk now has both fan and foe.
 
 Related to the AI-generated protest video
 —
@@ -125,7 +126,7 @@ not only has Elon Musk has been a public advocate for the Department of Governme
 —
 Elon Musk is publicly understood to be the _de facto_ head of the DOGE.
 
-So, perhaps the protestors' political strategy is to, _take out the leader_ and slowdown or stop the DOGE in its tracks, and make it ineffectual.
+So, perhaps the protestors' political strategy is to, _take out the leader_ to slowdown or stop the DOGE, and make it ineffectual.
 
 ## Department of Government Efficiency (DOGE)
 
