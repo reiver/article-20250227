@@ -38,11 +38,7 @@ According to [Jason Koebler](https://mastodon.social/@jasonkoebler) of [404 Medi
 >
 > [Other Bluesky users](https://bsky.app/profile/gxldsociety.bsky.social/post/3liyevyytjs2s) said that [versions of the video they uploaded](https://bsky.app/profile/justnothavingit.bsky.social/post/3liymxxqts22h) were also deleted […].
 
-[Jason Koebler](https://mastodon.social/@jasonkoebler) later prepended the article to say:
-
-> Bluesky restored Kabas' post and told 404 Media the following: "This was a case of our moderators applying the policy for non-consensual AI content strictly. After re-evaluating the newsworthy context, the moderation team is reinstating those posts."
-
-[The full video can be seen on Marisa Kabas' Bluesky account](https://bsky.app/profile/marisakabas.bsky.social/post/3liwlwvvq6k2s) again, since it was restored.
+[The full video can be seen on Marisa Kabas' Bluesky account](https://bsky.app/profile/marisakabas.bsky.social/post/3liwlwvvq6k2s) again, since it was later restored.
 
 ## What Was Being Protested
 
@@ -173,6 +169,7 @@ But, will the AI-generated protest video have the same effect with respect to Mr
 ## Why Was It Censored And Then Uncensored
 
 Why was the AI-generated protest video censorshed from the Bluesky platform‽
+And, why was it later uncensored‽
 
 According to [Jason Koebler](https://mastodon.social/@jasonkoebler) of [404 Media](https://www.404media.co/bluesky-deletes-ai-protest-video-of-trump-sucking-musks-toes-calls-it-non-consensual-explicit-material/):
 
@@ -196,7 +193,24 @@ Section 2.E. of [Bluesky's Community Guidelines](https://bsky.social/about/suppo
 
 The Bluesky moderator did seem to be following Bluesky's Community Guidelines when he or she censored AI-generated protest video — and yet, it was later uncensored and restored.
 
+So, why was it later uncensored‽
+
+According to [Jason Koebler](https://mastodon.social/@jasonkoebler) who later prepended the [404 Media article](https://www.404media.co/bluesky-deletes-ai-protest-video-of-trump-sucking-musks-toes-calls-it-non-consensual-explicit-material/):
+
+> Bluesky restored Kabas' post and told 404 Media the following: "This was a case of our moderators applying the policy for non-consensual AI content strictly. After re-evaluating the newsworthy context, the moderation team is reinstating those posts."
+
+This undoing of the censorship was likely a reaction to the backlash the Bluesky team received after censoring the protest video.
+If there was no backlash, the protest video would likely still be censored on the Bluesky platform.
+
+## Stuck Between A Rock And A Hard Place
+
+In some ways, Bluesky is stuck _betweeen a rock and a hard place_ — they are _damned if you do and damned if you don't_ — they are _between the devil and the deep blue sea _.
+
+Bluesky will be blamed if they do take action and and will be blamed if the don't take action.
+
 ...
+
+## Protests and Freedom of Speech
 
 In the U.S., the first amdendment is often considered sacrosanct.
 
@@ -216,14 +230,6 @@ And, perhaps captured by the children's rhyme:
 > but words [including abusive language and insults] shall never hurt me. 
 
 ...
-
-## Stuck Between A Rock And A Hard Place
-
-So what does this mean for Bluesky‽
-
-In some ways, Bluesky is stuck _betweeen a rock and a hard place_ — they are _damned if you do and damned if you don't_ — they are _between the devil and the deep blue sea _.
-
-Bluesky will be blamed if they do take action and and will be blamed if the don't take action.
 
 ## Political Bias
 
