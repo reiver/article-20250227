@@ -101,7 +101,15 @@ President Trump, like presidents before him, has a team behind him — which inc
 One of President Trump's senior advsiors, allies, and public supporters is Elon Musk.
 Mr Musk has been a public advocate for the Department of Government Efficiency (DOGE).
 
-Elon Reeve Musk is a businessman, ....
+Elon Reeve Musk is a businessman, known for his roles in
+—
+the electric car company _Tesla_,
+the space tehnology company _SpaceX_,
+the satellite Internet company _Starlink_,
+and acquiring _Twitter_ (and rebranding it to "𝕏").
+Mr. Musk is also a member of the (so called) "_PayPal Mafia_"
+—
+a group of former PayPal employees and founders who (after PayPal) went on to found, create, or develop additional technology companies, often based in Silicon Valley.
 
 Related to the AI-generated protest video
 —
@@ -112,7 +120,9 @@ I.e., if Mr. Musk if ???? then DOGE ????
 
 ## Department of Government Efficiency (DOGE)
 
-And, the third of the three things the protest video is about is — the Department of Government Efficiency (DOGE).
+But why all the concern about the DOGE‽
+
+The third of the three things the protest video is about is — the Department of Government Efficiency (DOGE).
 
 Promoted by Elon Musk, Mr. Musk has described the Department of Government Efficiency (DOGE) as a transformative initiative aimed at streamlining government operations and reducing wasteful spending.
 He envisions DOGE as a "meritocratic federal government that rewards excellence," focusing on promoting high-performing government workers and implementing significant cost-saving measures.
