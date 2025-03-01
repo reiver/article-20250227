@@ -262,37 +262,59 @@ There is a discussion to had about _moderation_ versus _censorship_.
 
 What is the difference between them‽
 Is there a difference between them‽
-Are they just different words for the same thing‽ — similar to "_and_" and "_but_"‽
+Are they just different words for the same thing‽
 
 I will argue that in practice, in this context, that there is no semantic difference between the two.
-In practice, _moderation_ and _censorship_ are semantically same thing — although perhaps differ in connotation — just like the words "_and_" and "_but_"
+In practice, _moderation_ and _censorship_ are semantically the same thing — although perhaps differ in connotation — just like the words "_and_" and "_but_".
 I.e., you call _censorship_ that you like "_moderation_"; and you call _moderation_ that you don't like "_censorship_".
 
-But I think focusing on that missing an important point —
+But I think focusing on that is missing an important point —
 
-Yes, it is true that, in practice, "Moderation" and "Censorship" have the same meaning.
+Yes, it is true that, in practice, _moderation_ and _censorship_ have the same meaning, but —
 
-But, the problem is not that there is Moderation / Censorship per se —
+The problem is not that there is _moderation_ / _censorship_ per se —
 
-The problem is WHO is in control of it —
+The problem is **_who_** is in control of it —
 
 You? Or someone else?
 
-Do YOU get to decide what YOU do and do not get exposed to?
+Do **_you_** get to decide what **_you_** do and do not get exposed to?
 
-Or does someone else get to decide, against your will.
+Or does someone else get to decide, against your will?
+
+I think that is a more imporant distinction.
+
+## Tools
+
+Social-media has long provided a number of tools to put you in control
+—
+_muting_ people, keywords, hash-tags, and other things,
+_blocking_ people,
+_hiding_ your posts,
+etc.
+
+These tools put you in controls.
+
+Platform moderators ... take the control away from you.
+
+You might _not_ notice this when they censor things you don't want to see.
+But, you likely will notice this when they censor something you feel should _not_ have been.
+
+And, this was the case for many with the protest video.
+
+Someone else (i.e., the Bluesky moderator) had the control.
+Someone else effectively decide for you what you would or would not see.
+And, if you were someone who did not agree with the censorship, then noticed all this.
 
 ## AI Moderation
 
-AI has been in the news a lot lately.
+Some see AI moderation as a panacea.
 
-Some see AI as a panacea to moderation woes.
-
-AI moderation has been around with us for a long time.
-
-...
+With AI moderation it also matter who is effectively in control of what **_you_** do and don't see — **_you_** or someone else?
 
 ## Twitter Files
+
+...
 
 ## Why Decentralization Matters
 
