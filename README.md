@@ -10,7 +10,7 @@ Let’s dive in and uncover the truth behind the controversy.
 Bluesky is not just another social-media network — it is one that shares deep roots with Twitter, and promises to solve many of the problems Twitter has had.
 Originally a project within Twitter, Bluesky has separated from Twitter and grown into its own separate platform.
 
-Part of Bluesky's strategy for being a _better Twitter_ is — decentralization.
+Part of Bluesky's strategy for being _better tha Twitter_ is — decentralization.
 
 In fact, Bluesky is _not_ alone in championing _decentralization_.
 Bluesky is one of a number of decentralized social-media (DeSo) networks — which includes the Fediverse (which both Mastodon and Meta's Threads are a part of), Nostr, and Farcaster.
