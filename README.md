@@ -142,19 +142,36 @@ The DOGE was officially created by President Trump on January 20th, 2025 by [exe
 
 ## “Long Live The Real King”
 
-This AI-generated video is likely a reaction to ....
+The AI-generated video is overlayed with the text:
 
-And, is likely meant to ...
+> Long Live The Real King
 
-The content of the AI Generated video of President Trump and Elon Musk ...
+This is likely meant to evoke a response from President Trump.
+
+Perhaps meant to enrage President Trump — by suggesting that he is subordinate to Mr. Musk, rather than the other way around.
 
 ## Bannon
 
-This ("LONG LIVE THE REAL KING") video expression of political speech is reminisent of ... of Stephen Kevin Bannon.
+We have seen this maneuver before — during President Trump's first term.
+An attempt to suggest that President Trump is subordinate a member of his team has happened before.
+
+Although during President Trump's first term it involved Stephen Kevin Bannon rather than Elon Reeve Musk.
+
+Steven Bannon is ....
+
+...
+
+## Why Was It Censored
+
+Why was the AI-generated protest video censorshed from the Bluesky platform‽
+
+According to [Jason Koebler](https://mastodon.social/@jasonkoebler) of [404 Media](https://www.404media.co/bluesky-deletes-ai-protest-video-of-trump-sucking-musks-toes-calls-it-non-consensual-explicit-material/):
 
 ...
 
 ## Stuck Between A Rock And A Hard Place
+
+So what does this mean for Bluesky‽
 
 In some ways, Bluesky is stuck _betweeen a rock and a hard place_ — they are _damned if you do and damned if you don't_ — they are _between the devil and the deep blue sea _.
 
