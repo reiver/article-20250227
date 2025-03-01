@@ -98,10 +98,9 @@ on January 20th, 2025, President Trump officially created the DOGE by [executive
 No president of the United States of America goes at it alone.
 President Trump, like presidents before him, has a team behind him — which includes his cabinet and his advisors.
 
-One of President Trump's senior advsiors, allies, and public supporters is Elon Musk.
-Mr Musk has been a public advocate for the Department of Government Efficiency (DOGE).
+One of President Trump's senior advsiors, allies, and public supporters is Elon Reeve Musk.
 
-Elon Reeve Musk is a businessman, known for his roles in
+Elon Musk is a businessman, known for his roles in
 —
 the electric car company _Tesla_,
 the space tehnology company _SpaceX_,
@@ -110,26 +109,33 @@ and acquiring _Twitter_ (and rebranding it to "𝕏").
 Mr. Musk is also a member of the (so called) "_PayPal Mafia_"
 —
 a group of former PayPal employees and founders who (after PayPal) went on to found, create, or develop additional technology companies, often based in Silicon Valley.
+In addition to this, Mr. Musk is also known for advocating the establishment of a permanent human presence on the planet Mars.
+
+Like President Trump, Mr Musk has also gained a large number of opponents, critics, and detractors.
+This seemed to have largely started when Mr. Musk became publicly critical of policy and politics associated with the U.S. Democratic Party, as well as expressing that he would vote for Republican Party candidates due to his dissatisfaction with incumbent U.S. Democratic Party members.
+
+Mr. Musk is sometimes compared to the Marvel Cinematic Universe (MCU)'s _Tony Stark_ character
+—
+as a real-life _Iron Man_.
+Although, Mr. Musk's opponents, critics, and detractors would likely characterize Mr. Musk as another of MCU _Tony Stark_'s alter-egos — the MCU villain Doctor Doom.
 
 Related to the AI-generated protest video
 —
+not only has Elon Musk has been a public advocate for the Department of Government Efficiency (DOGE), but
+—
 Elon Musk is publicly understood to be the _de facto_ head of the DOGE.
 
-So, perhaps the protestors' political strategy is to, metaphorically _cut off the head of the snake_.
-I.e., if Mr. Musk if ???? then DOGE ????
+So, perhaps the protestors' political strategy is to, _take out the leader_ and slowdown or stop the DOGE in its tracks, and make it ineffectual.
 
 ## Department of Government Efficiency (DOGE)
 
 But why all the concern about the DOGE‽
-
-The third of the three things the protest video is about is — the Department of Government Efficiency (DOGE).
 
 Promoted by Elon Musk, Mr. Musk has described the Department of Government Efficiency (DOGE) as a transformative initiative aimed at streamlining government operations and reducing wasteful spending.
 He envisions DOGE as a "meritocratic federal government that rewards excellence," focusing on promoting high-performing government workers and implementing significant cost-saving measures.
 
 The Department of Government Efficiency (DOGE) — whose name is a play on the **Doge meme** — is an initiative by President Trump's second administration.
 The DOGE was officially created by President Trump on January 20th, 2025 by [executive order 14158](https://www.federalregister.gov/documents/2025/01/29/2025-02005/establishing-and-implementing-the-presidents-department-of-government-efficiency).
-
 
 ...
 
