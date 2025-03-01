@@ -146,26 +146,45 @@ The AI-generated video is overlayed with the text:
 
 > Long Live The Real King
 
+This is likely meant to be a message for President Trump.
 This is likely meant to evoke a response from President Trump.
 
 Perhaps meant to enrage President Trump — by suggesting that he is subordinate to Mr. Musk, rather than the other way around.
+In the hopes that an engaged Trump will remove Elon Musk as the _de facto_ head of the DOGE.
+Thus ??? the DOGE.
 
-## Bannon
+## Steve Bannon
 
-We have seen this maneuver before — during President Trump's first term.
-An attempt to suggest that President Trump is subordinate a member of his team has happened before.
+But, have we seen this strategy before‽
 
-Although during President Trump's first term it involved Stephen Kevin Bannon rather than Elon Reeve Musk.
+During President Trump's first term, a cartoon appeared suggesting simlilar — suggesting that President Trump was subordinate another member of his team.
+In particular, that time suggesting President Trump was subordinate to his former chief strategist — Stephen Kevin Bannon.
 
-Steven Bannon is ....
+Steve Bannon is ....
 
-...
+After the cartoon surfaces, after seven months of serving as chief strategist in President Trump's first term, Mr. Bannon was discharged from his position.
+Mr. Bannon was no longer part of President Trump's team.
+
+That time the cartoon may have worked — Mr. Bannon was gone.
+But, will the AI-generated protest video have the same effect with respect to Mr. Musk — will Mr. Musk be gone, too?
 
 ## Why Was It Censored
 
 Why was the AI-generated protest video censorshed from the Bluesky platform‽
 
 According to [Jason Koebler](https://mastodon.social/@jasonkoebler) of [404 Media](https://www.404media.co/bluesky-deletes-ai-protest-video-of-trump-sucking-musks-toes-calls-it-non-consensual-explicit-material/):
+
+...
+
+In the U.S., the first amdendment is often considered sacrosanct.
+
+> Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
+
+Included in this text is the concept of _freedom of speech_.
+In particular, the point of view of law — and ....
+
+But in the U.S, _freedom of speech_ as social-form (that goes beyond the requirements of the law) is common, too.
+...
 
 ...
 
