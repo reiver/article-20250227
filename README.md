@@ -200,17 +200,33 @@ According to [Jason Koebler](https://mastodon.social/@jasonkoebler) who later pr
 > Bluesky restored Kabas' post and told 404 Media the following: "This was a case of our moderators applying the policy for non-consensual AI content strictly. After re-evaluating the newsworthy context, the moderation team is reinstating those posts."
 
 This undoing of the censorship was likely a reaction to the backlash the Bluesky team received after censoring the protest video.
-If there was no backlash, the protest video would likely still be censored on the Bluesky platform.
+We can only speculate, but I suspect that — if there was no backlash, then the protest video would likely still be censored on the Bluesky platform.
 
 ## Stuck Between A Rock And A Hard Place
 
-In some ways, Bluesky is stuck _betweeen a rock and a hard place_ — they are _damned if you do and damned if you don't_ — they are _between the devil and the deep blue sea _.
+In some ways, Bluesky is stuck _betweeen a rock and a hard place_ — do they moderate or do they _not_ moderate‽
+They seem to be _damned if you do and damned if you don't_ — and stuck _between the devil and the deep blue sea_.
 
-Bluesky will be blamed if they do take action and and will be blamed if the don't take action.
+Bluesky initially took a hands-off approach to moderation.
+A policy that was _cheered_ by many, later attracted _jeers_.
 
-...
+In July 2023, [Bluesky attracted jeers and controversy](https://techcrunch.com/2023/07/27/bluesky-racism-slur-apology-feedback/) when Bluesky was criticized for not preventing racist content.
+
+As a reaction to this, BLuesky decided to take a hands-on apporach and moderate
+—
+they created the [Bluesky community guidelines](https://bsky.social/about/support/community-guidelines) and hired moderators.
+
+Fans of the prior hands-off approach may see this change as heavy-handed, a violation of social-norms around freedom of speech, and a _cure that is worse than the disease_.
+
+However, this is constrasted by fans of the hands-of approach, who may see it as, a reasonable attempt by Bluesky to protect is users.
+
+And yet, this _reasonable attempt by Bluesky to protect is users_ through moderation resulted in a backlash and new controversy. 
+
+It feels as if Bluesky will be blamed if they _do_ take action and and will (also) be blamed if the _don't_ take action.
 
 ## Protests and Freedom of Speech
+
+Maybe part of the conflict is around what tends to get called _freedom of speech_.
 
 In the U.S., the first amdendment is often considered sacrosanct.
 
