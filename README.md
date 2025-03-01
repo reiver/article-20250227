@@ -8,12 +8,10 @@ Let’s dive in and uncover the truth behind the controversy.
 ## Moderation or Censorship
 
 Bluesky is not just another decentralized social-media network — it is one that shares deep roots with Twitter.
-Originally a project within Twitter, Bluesky has grown into its own DeSo (decentralized social-media) platform.
+Originally a project within Twitter, Bluesky has separated from Twitter and grown into its own separate platform.
 
-But Bluesky is far from alone in the DeSo world.
-Other decentralized networks, such as the Fediverse, Nostr, and Farcaster, have also emerged, each carving out its own space in the rapidly evolving landscape of social-media.
-
-Both Bluesky and a part of the Fediverse (including Mastodon) have received significant media coverage in recent years.
+Both Bluesky and its sister DeSo (decentralized social-media) platform, the Fediverse, have attracted significant media coverage in recent years.
+And, it is again that Bluesky is in the news.
 
 Bluesky is back in the headlines — but this time, it is facing accusations of censoring political speech.
 The controversy centers around a viral AI-generated protest video targeting President Trump and Elon Musk, which was removed by the Bluesky team from the Bluesky platform.
