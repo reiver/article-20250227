@@ -445,3 +445,8 @@ DISCLAIMER: I (Charles Iliya Krempeaux) am a co-founder of [SpaceHost](https://s
 ...
 
 ## Is Bluesky Decentralized
+
+Is Bluesky actually decentralized?
+And thus, can you _foot vote_ and _escape_ within Bluesky?
+
+...
