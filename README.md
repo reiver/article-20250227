@@ -404,6 +404,20 @@ Foot Voting ...
 
 ...
 
+
+## Escape
+
+A person who cannot find ... can always create there own social-network server — their own home and castle on the ... where they can be _king_ or _queen_.
+
+Although a ... can do this all on their own, there are companies that help ....
+—
+these include
+[Masto.Host]()
+[SpaceHost](https://spacehost.one/),
+[Communick](https://communick.com/),
+[K&T Host](https://www.knthost.com/),
+and
+[Prometheus Systems](https://prometheus.systems/).
 DISCLAIMER: I (Charles Iliya Krempeaux) am a co-founder of [SpaceHost](https://spacehost.one/).
 
 ...
