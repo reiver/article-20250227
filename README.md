@@ -12,10 +12,10 @@ Originally a project within Twitter, Bluesky has separated from Twitter and grow
 
 Part of Bluesky's strategy for being a _better Twitter_ is — decentralization.
 
-In fact, Bluesky is _not_ alone in championing _decentralization.
+In fact, Bluesky is _not_ alone in championing _decentralization_.
 Bluesky is one of a number of decentralized social-media (DeSo) networks — which includes the Fediverse (which both Mastodon and Meta's Threads are a part of), Nostr, and Farcaster.
 
-Both Bluesky and its sister DeSo and the Fediverse (including both Mastodon & Threads) have attracted significant media coverage in recent years.
+Both Bluesky and the Fediverse (including both Mastodon & Threads) have attracted significant media coverage in recent years.
 And, it is again that Bluesky is in the news.
 
 ## Moderation or Censorship
@@ -267,7 +267,7 @@ Protests are often protected due to both _freedom of speech_ law and norms.
 So, what happens when _freedom of speech_ norms are not only ignored but spurned.
 
 It there a way to _univesally_ protect protests without _freedom of speech_?
-Or have those who said "no" to _freedom of speech_ but were against the censoring he protest video — have they _foot-gunned_ themselves?
+Or have those who said "no" to _freedom of speech_ but were against the censoring he protest video — have they "_foot-gunned_" themselves?
 
 ## Moderation versus Censorship
 
@@ -276,6 +276,7 @@ There is a discussion to had about _moderation_ versus _censorship_.
 What is the difference between them‽
 Is there a difference between them‽
 Are they just different words for the same thing‽
+And, as I will late argue, is this even the most important question to be asking‽
 
 I will argue that in practice, in this context, that there is no semantic difference between the two.
 In practice, _moderation_ and _censorship_ are semantically the same thing — although perhaps differ in connotation — just like the words "_and_" and "_but_".
@@ -292,7 +293,6 @@ The problem is **_who_** is in control of it —
 You? Or someone else?
 
 Do **_you_** get to decide what **_you_** do and do not get exposed to?
-
 Or does someone else get to decide, against your will?
 
 I think that is a more imporant distinction.
