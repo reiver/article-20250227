@@ -48,10 +48,17 @@ According to [Jason Koebler](https://mastodon.social/@jasonkoebler) of [404 Medi
 
 What was this AI-generated protest video about‽
 
-The protest video was about three things — Presdent Trump, Elon Musk, and the Department of Government Efficiency (DOGE).
-And, in particular, perhaps what the DOGE is believed to have been doing on behalf of President Trump and Elon Musk.
+Watching the protest video, it is obvious that there are (at least) 2 things that it is about —  Presdent Trump, and Elon Musk.
 
-The protest video may have also been an attempt to drive a wedge between President Trump and Elon Musk — perhaps a political maneuver similar to the wedge that was driven between the then 45th POST, President Trump, and Steve Bannon.
+But, there is also a third thing the protest video is likely about — the Department of Government Efficiency (DOGE)
+And, in particular, likely what the DOGE is believed to have been doing on behalf of President Trump and Elon Musk.
+
+In addition to this, this protest video may have also been an attempt to drive a wedge between President Trump and Elon Musk
+—
+perhaps utilizing a political strategy similar to the wedge that was driven between President Trump and Steve Bannon, during President Trump's first term as POTUS.
+As an attempt to slowdown if not stop the DOGE, by removing Elon Musk from the picture.
+
+Let's dig into this more.
 
 ## Donald John Trump
 
@@ -60,7 +67,7 @@ From real-estate mogul to reality TV star to President of the United States (POT
 Donald J. Trump is 47th president of the United States of America.
 And, at the time of writing, the sitting POTUS.
 
-President Trump is also the 45th POTUS, was the former host of the _reality_ TV show _The Apprentice_, is a well-known businessman, is a real-estate mogul, and traditionally has been widely thought of as an exemplar of a rich & successful person, and a symbol for status, wealth, and power among many.
+President Trump is also the 45th POTUS, was the former host of the _reality_ TV show _The Apprentice_, is a well-known businessman, and traditionally has been widely thought of as an exemplar of a rich & successful person, and a symbol for status, wealth, and power among many.
 
 Before his presidency, President Trump also made cameos in the movies
 "The Little Rascals" (1994),
@@ -73,18 +80,26 @@ And, also made appearances in various TV shows, including:
 and
 "The Nanny".
 
-On January 20th, 2025, President Trump officially created the DOGE by [executive order 14158](https://www.federalregister.gov/documents/2025/01/29/2025-02005/establishing-and-implementing-the-presidents-department-of-government-efficiency).
+Related to the AI-generated protest video
+—
+on January 20th, 2025, President Trump officially created the DOGE by [executive order 14158](https://www.federalregister.gov/documents/2025/01/29/2025-02005/establishing-and-implementing-the-presidents-department-of-government-efficiency).
 
 ## Elon Reeve Musk
 
-No president of the United States of America goes at it alone
+No president of the United States of America goes at it alone.
 President Trump, like presidents before him, has a team behind him — which includes his cabinet and his advisors.
 
-One of President Trump's senior advsiors, allies, and public supporters — Elon Musk — has been a public advocate for the Department of Government Efficiency (DOGE).
+One of President Trump's senior advsiors, allies, and public supporters is Elon Musk.
+Mr Musk has been a public advocate for the Department of Government Efficiency (DOGE).
 
 Elon Reeve Musk is a businessman, ....
 
-Elon Musk, a businessman known for ....
+Related to the AI-generated protest video
+—
+Elon Musk is publicly understood to be the _de facto_ head of the DOGE.
+
+So, perhaps the protestors' political strategy is to, metaphorically _cut off the head of the snake_.
+I.e., if Mr. Musk if ???? then DOGE ????
 
 ## Department of Government Efficiency (DOGE)
 
