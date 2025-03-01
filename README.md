@@ -5,13 +5,20 @@ Recently accused of censoring political speech targeting President Trump and Elo
 Is Bluesky simply Twitter 2.0 in disguise, or is it caught in a moderation nightmare?
 Let’s dive in and uncover the truth behind the controversy.
 
-## Moderation or Censorship
+## What Is Bluesky
 
-Bluesky is not just another decentralized social-media network — it is one that shares deep roots with Twitter.
+Bluesky is not just another social-media network — it is one that shares deep roots with Twitter, and promises to solve many of the problems Twitter has had.
 Originally a project within Twitter, Bluesky has separated from Twitter and grown into its own separate platform.
 
-Both Bluesky and its sister DeSo (decentralized social-media) platform, the Fediverse, have attracted significant media coverage in recent years.
+Part of Bluesky's strategy for being a _better Twitter_ is — decentralization.
+
+In fact, Bluesky is _not_ alone in championing _decentralization.
+Bluesky is one of a number of decentralized social-media (DeSo) networks — which includes the Fediverse (which both Mastodon and Meta's Threads are a part of), Nostr, and Farcaster.
+
+Both Bluesky and its sister DeSo and the Fediverse (including both Mastodon & Threads) have attracted significant media coverage in recent years.
 And, it is again that Bluesky is in the news.
+
+## Moderation or Censorship
 
 Bluesky is back in the headlines — but this time, it is facing accusations of censoring political speech.
 The controversy centers around a viral AI-generated protest video targeting President Trump and Elon Musk, which was removed by the Bluesky team from the Bluesky platform.
