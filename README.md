@@ -546,30 +546,51 @@ It depends on whether you mean _right now_, or in a future that hasn't happened 
 It depends on whether you mean theoretically, or in practice.
 It also depends on what you mean by "_Bluesky_".
 
-I think the TL;DR answer for most normal (non-technical) people — _no_ Bluesky is _not_ decentralized yet, **but** it looks like Bluesky might be at the start of decentralizing — but it still has a long way to go before it gets there.
+I think the TL;DR answer for most normal (non-technical) people — _no_, Bluesky is _not_ decentralized yet, **but** it looks like Bluesky might be at the start of decentralizing — but it still has a long way to go before it gets there.
 And, some things about Bluesky and the way people use it will probably have to change to make it happen.
 
-For example —
+The vast majority of people using Bluesky (and the broader ATmosphere)
+—
 
-Users _could_ self-host their own Bluesky PDS (personal data server) rather than using a PDS (very generously) provided by the (friendly and nice) Bluesky team — which would help decentralize Bluesky, but — that isn't common yet.
-(As an aside, the company I co-founderd, SpaceHost, does provide [Bluesky PDS hosting](https://spacehost.one/bluesky_pds). I am _not_ aware of anyone else doing it. But, I am sure there will be others eventually.)
+* are _not_ self-hosting their own _PDS_ (personal data server),
+* are _not_ using alternative mobile apps, and
+* are _not_ using alternative web applications.
 
-Developers _could_ support actually decentralized DIDs (decentralized identifiers) besides the (ironically) centralized DIDs, DID-PLC and DID-Web — which would help decentralize Bluesky, but — that isn't common yet.
+To decentralized Bluesky (and the broader ATmosphere) we need all of these 3 things to happen — but none of them are common, yet.
 
-Developers _could_ avoid using the centralized _Firehose-Relay_ that the (friendly and nice) Bluesky team (very generously) provides, and get new posts directly from the the PDSes (personal data servers) of the accounts a user follows (or from any other account of interest) — which would help decentralize Bluesky, but — that isn't common yet.
-It seems like that vast majority of Bluesky (or ATmosphere) users use an application that gets its data from the Bluesky Firehose-Relay.
+Instead, at least currently, the vast majority of people using Bluesky (and the broader ATmosphere)
+—
 
-Developer _could_ deploy their own Relay for Bluesky, aggregating data from PDSes themselves, rather than relying on the centralized _Firehose-Relay_ — which would help decentralize Bluesky, but — that isn't common yet.
-It seems like that vast majority of Bluesky (or ATmosphere) users use an application that gets its data from the Bluesky Firehose-Relay, rather than an alternative relay.
+* are using a PDS (very generously) provided by the (friendly and nice) Bluesky team,
+* are using the official Bluesky mobile apps created by the (friendly and nice) Bluesky team, and
+* are using the official Bluesky web application (i.e., `bsky.app`) created by the (friendly and nice) Bluesky team.
 
-Developers _could_ create their own AppView, rather than just use the AppView that the (friendly and nice) Bluesky team (very generously) provides — which would help decentralize Bluesky, but — that isn't common yet.
-It seems like that vast majority of Bluesky (or ATmosphere) users use an application that gets its data from the Bluesky team's AppView (rather than creating their own).
+It is good that these exist, but — until a very large number of users get these things from other providers, too, Bluesky is _not_ decentralized.
 
-Users _could_ use a web-based front-end client other than the `bsky.app` provided by the (friendly and nice) Bluesky team — which would help decentralize Bluesky, but — that isn't common yet.
-It seems like that vast majority of Bluesky (or ATmosphere) users use `bsky.app` when they are accessing Bluesky / ATmosphere from the Web.
+(As an aside, in the hopes of helping decentralized Bluesky, the company I co-founderd, SpaceHost, does (also) provide [Bluesky PDS hosting](https://spacehost.one/bluesky_pds).
+I am _not_ aware of anyone else doing it, yet.
+But, I am sure there will be others eventually.)
 
-Users _could_ use a mobile front-end client other than the official Bluesks apps provided by the (friendly and nice) Bluesky team — which would help decentralize Bluesky, but — that isn't common yet.
-It seems like that vast majority of Bluesky (or ATmosphere) users use the official Bluesks apps when they are accessing Bluesky / ATmosphere from a mobile phone.
+But, user aren't the only ones that matter, when it comes to the decentralization of Bluesky.
+Developers, the people who build things, matter, too.
+
+The vast majority of developers making things for Bluesky (and the broader ATmosphere)
+—
+
+* are _not_ supporting DIDs (decentralized identifiers) that are _actually_ decentralized,
+* are _not_ directly communicating with users PDS (personal data server),
+* are _not_ hosting their own _relays_,
+* are _not_ hosting their own _AppViews_,
+
+To decentralized Bluesky (and the broader ATmosphere) we need all of these 4 things to happen — but none of them are common, yet.
+
+Instead, at least currently, the vast majority of developers building things for Bluesky (and the broader ATmosphere)
+—
+
+* only support the DID-PLC and DID-Web, which, ironically, even though (the commonly supported) DID-PLC and DID-Web are called "_DID_" (i.e., "decentralized identifier") they are **not** decentralized, but are instead centralized,
+* don't directly communicate with users PDS (personal data server),
+* don't host their own _relay_ — but, instead use the centralized _Firehose-Relay_ that the (friendly and nice) Bluesky team (very generously) provides, and
+* don't host their own _AppView_ — but, instead use the centralized BLuesky AppView that they (friendly and nice) Bluesky team (very generously) provides.
 
 Inferring tone from text isn't always easy.
 So, I want to be clear that —
