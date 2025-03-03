@@ -598,7 +598,7 @@ I think the Bluesky team seem like good people.
 I think the Bluesky team are trying to do the right thing.
 And, I don't have anything bad to say about any of them.
 
-But I wanted to answer the question ("_is Bluesky actually decentralized?_") accurately.
+But, I wanted to answer the question ("_is Bluesky actually decentralized?_") accurately.
 So, not yet, but I am hopeful for the future.
 
 ## DeSo
