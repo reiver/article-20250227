@@ -476,7 +476,7 @@ Foot Voting ...
 
 For a society, the ability for an individual to _escape_ or not — seems to determine whether the the society is more _egalitarian_ or more _despotic_ in nature.
 
-The also seems to be true of _online societies_ — such as social-media.
+The also seems to be true of _online societies_ — such as social-media networks.
 
 Or, metaphorically speaking, as was said in a famous Hermetic text:
 
@@ -510,14 +510,14 @@ And (eventually) they can take their content with them, too.
 
 That is part of the value of decentralization.
 
-You have a way of escaping — and taking everything important with you.
+You have a way of escaping — and taking everything _important_ with you.
 
-A person who cannot find ... can always create there own social-network server — their own home and castle on the ... where they can be _king_ or _queen_.
+A person who cannot find suitable server, operated by someone else, can always create there own social-network server — their own home and castle on the where they can be _king_ or _queen_.
 
-In fact, for those looking to **escape** to a server instance of their own, there are companies that help them ...
+In fact, for those looking to **escape** to a server instance of their own, there are already companies that help them
 —
 these include
-[Masto.Host]()
+[Masto.Host](https://masto.host/)
 [SpaceHost](https://spacehost.one/),
 [Communick](https://communick.com/),
 [K&T Host](https://www.knthost.com/),
@@ -525,6 +525,10 @@ and
 [Prometheus Systems](https://prometheus.systems/)
 —
 disclaimer: I (Charles Iliya Krempeaux) am a co-founder of [SpaceHost](https://spacehost.one/).
+
+...
+
+...
 
 ...
 
