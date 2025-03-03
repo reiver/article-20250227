@@ -585,7 +585,7 @@ So, not yet, but I am hopeful for the future.
 In fact, I am hopeful for the future for all of decentralized social-media (DeSo) — Bluesky, the Fediverse, Nostr, Farcaster, etc.
 
 I think the world is a little less-worse with decentralized social-media in it.
-And, hopefully, a little better.
+And, maybe even a little better.
 
 And, if you are not already on decentralized-social media — please join 🙂
 
