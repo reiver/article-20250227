@@ -506,8 +506,9 @@ these include
 [Communick](https://communick.com/),
 [K&T Host](https://www.knthost.com/),
 and
-[Prometheus Systems](https://prometheus.systems/).
-DISCLAIMER: I (Charles Iliya Krempeaux) am a co-founder of [SpaceHost](https://spacehost.one/).
+[Prometheus Systems](https://prometheus.systems/)
+—
+disclaimer: I (Charles Iliya Krempeaux) am a co-founder of [SpaceHost](https://spacehost.one/).
 
 ...
 
