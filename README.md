@@ -529,9 +529,46 @@ Can you _escape_ within Bluesky?
 
 The answer is _not_ a simple "_yes_" or "_no_".
 
-I think the TL;DR answer is — _no_ Bluesky is _not_ decentralized yet, **but** it looks like Bluesky might be at the start of decentralizing — but it still has a long way to go before it gets there.
+It depends.
+It depends on whether you mean _right now_, or in a future that hasn't happened yet and we cannot be certain about.
+It depends on whether you mean theoretically, or in practice.
+It also depends on what you mean by "_Bluesky_".
+
+I think the TL;DR answer for most normal (non-technical) people — _no_ Bluesky is _not_ decentralized yet, **but** it looks like Bluesky might be at the start of decentralizing — but it still has a long way to go before it gets there.
 And, some things about Bluesky and the way peopole use it will probably have to change to make it happen.
 
-For example, the `bsky.app` web-based application and the official Bluesky mobile apps be cannot the only front-end the vast majority of people use — not only do their needs to be alternatives, but users actually have to use them.
-Developers cannot only rely on the AppView that the Bluesky team provides — there need to be alternative AppViews, and better — perhaps better, developers should create their own AppViews.
-Developers cannot solely rely on the Firehose Relay provided by the Bluesky team — alternatives need to exist, not just in theory, but in practice.
+For example —
+
+Users _could_ self-host their own Bluesky PDS (personal data server) rather than using a PDS (very generously) provided by the (friendly and nice) Bluesky team — which would help decentralize Bluesky, but — that isn't common yet.
+(As an aside, the company I co-founderd, [SpaceHost](https://spacehost.one/), does provide Bluesky PDS hosting.)
+
+Developers _could_ avoid using the centralized _Firehose-Relay_ that the (friendly and nice) Bluesky team (very generously) provides, and get new posts directly from the the PDSes (personal data servers) of the accounts a user follows (or from any other account of interest) — which would help decentralize Bluesky, but — that isn't common yet.
+It seems like that vast majority of Bluesky (or ATmosphere) users use an application that gets its data from the Bluesky Firehose-Relay.
+
+Developer _could_ deploy their own Relay for Bluesky, aggregating data from PDSes themselves, rather than relying on the centralized _Firehose-Relay_ — which would help decentralize Bluesky, but — that isn't common yet.
+It seems like that vast majority of Bluesky (or ATmosphere) users use an application that gets its data from the Bluesky Firehose-Relay, rather than an alternative relay.
+
+Developers _could_ create their own AppView, rather than just use the AppView that the (friendly and nice) Bluesky team (very generously) provides — which would help decentralize Bluesky, but — that isn't common yet.
+It seems like that vast majority of Bluesky (or ATmosphere) users use an application that gets its data from the Bluesky team's AppView (rather than creating their own).
+
+Users _could_ use a web-based front-end client other than the `bsky.app` provided by the (friendly and nice) Bluesky team — which would help decentralize Bluesky, but — that isn't common yet.
+It seems like that vast majority of Bluesky (or ATmosphere) users use `bsky.app` when they are accessing Bluesky / ATmosphere from the Web.
+
+Users _could_ use a mobile front-end client other than the official Bluesks apps provided by the (friendly and nice) Bluesky team — which would help decentralize Bluesky, but — that isn't common yet.
+It seems like that vast majority of Bluesky (or ATmosphere) users use the official Bluesks apps when they are accessing Bluesky / ATmosphere from a mobile phone.
+
+Inferring tone from text isn't always easy.
+So, I want to be clear that —
+I think the Bluesky team seem like good people.
+I think the Bluesky team are trying to do the right thing.
+And, I don't have anything bad to say about any of them.
+
+But I wanted to answer the question ("_is Bluesky actually decentralized?_") accurately.
+So, not yet, but I am hopeful for the future.
+
+## DeSo
+
+In fact, I am hopeful for the future for all of decentralized social-media (DeSo) — Bluesky, the Fediverse, Nostr, Farcaster, etc.
+
+I think the world is a little less-worse with decentralized social-media in it.
+And, hopefully, a little better.
