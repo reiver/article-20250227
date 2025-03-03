@@ -296,7 +296,7 @@ There is a discussion to had about _moderation_ versus _censorship_.
 What is the difference between them‽
 Is there a difference between them‽
 Are they just different words for the same thing‽
-And, as I will late argue, is this even the most important question to be asking‽
+And, is this even the most important question to be asking‽
 
 I will argue that in practice, in this context, that there is no semantic difference between the two.
 In practice, _moderation_ and _censorship_ are semantically the same thing — although perhaps differ in connotation — just like the words "_and_" and "_but_".
