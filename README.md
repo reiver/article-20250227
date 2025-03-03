@@ -529,8 +529,15 @@ Can you _escape_ within Bluesky?
 
 The answer is _not_ a simple "_yes_" or "_no_".
 
+I think the TL;DR answer is — _no_ Bluesky is _not_ decentralized yet, **but** it looks like it might be at the start of decentralizing — but it still has a long way to go before it gets there. 
+
+For those that don't want a more detailed answer, you can stop reading here.
+For those who do want a more detailed answer, keep reading.
+
+Is Bluesky actually decentralized?
+
 It depends.
-It depends on whether you mean _right now_, or in the future that hasn't happened yet and we cannot be certain about.
+It depends on whether you mean _right now_, or in a future that hasn't happened yet and we cannot be certain about.
 It depends on whether you mean theoretically, or in practice.
 It also depends on what you mean by "_Bluesky_".
 
