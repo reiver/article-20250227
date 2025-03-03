@@ -594,6 +594,7 @@ And, if you are not already on decentralized-social media — please join 🙂
 [Join Lemmy](https://join-lemmy.org/),
 [Join Loops](https://joinloops.org/),
 [Join Mastodon](https://joinmastodon.org/),
+[Join Mbin](https://joinmbin.org/),
 [Join Misskey](https://misskey-hub.net/en/servers/),
 [Join Nostr](https://damus.io/),
 [Join Pixelfed](https://pixelfed.org/how-to-join),
