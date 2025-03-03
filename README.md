@@ -590,12 +590,12 @@ And, maybe even a little better.
 And, if you are not already on decentralized-social media — please join 🙂
 
 ([Join Bluesky](https://bsky.app/),
-[Join Nostr](https://damus.io/),
 [Join Farcaster](https://www.farcaster.xyz/),
 [Join Lemmy](https://join-lemmy.org/),
 [Join Loops](https://joinloops.org/),
 [Join Mastodon](https://joinmastodon.org/),
 [Join Misskey](https://misskey-hub.net/en/servers/),
+[Join Nostr](https://damus.io/),
 [Join Pixelfed](https://pixelfed.org/how-to-join),
 [Join PeerTube](https://joinpeertube.org/),
 etc)
