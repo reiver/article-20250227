@@ -572,3 +572,5 @@ In fact, I am hopeful for the future for all of decentralized social-media (DeSo
 
 I think the world is a little less-worse with decentralized social-media in it.
 And, hopefully, a little better.
+
+And, if you are not already on decentralized-social media — please join 🙂
