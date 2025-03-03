@@ -286,7 +286,7 @@ Some say "no".
 Protests are often protected due to both _freedom of speech_ law and norms.
 So, what happens when _freedom of speech_ norms are not only ignored but spurned.
 
-It there a way to _univesally_ protect protests without _freedom of speech_?
+Is there a way to _univesally_ protect protests without _freedom of speech_?
 Or have those who said "no" to _freedom of speech_ but were against the censoring he protest video — have they "_foot-gunned_" themselves?
 
 ## Moderation versus Censorship
