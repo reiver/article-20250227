@@ -460,12 +460,24 @@ Foot Voting ...
 
 For a society, the ability for an individual to _escape_ or not — seems to determine whether the the society is more _egalitarian_ or more _despotic_ in nature.
 
+The same seems to play out with social-media, too — as well as other forms of online society.
+
+Or, metaphorically speaking, as the Hermetic text said:
+
+> [ENGLISH]  
+> That which is above is like to that which is below, and that which is below is like to that which is above.
+>
+> [ARABIC]  
+> إن الأعلى من الأسفل والأسفل من الأعلى
+
 Anthropologist and political scientist James C. Scott (who recently passed away on July 19, 2024) researched how ordinary people resist oppression.
 He talked about how some groups have deliberately retreated to less accessible regions, such as mountainous or forested areas, to avoid control & oppression, and to maintain a degree of autonomy.
 
 Another anthropologist, Christopher Boehm, ...
 
 ... gorillas .. .chimpanzees ... bonobos ... other primates ...
+
+**Decentralization** is a _social-tool_ to enable **escape**.
 
 A person who cannot find ... can always create there own social-network server — their own home and castle on the ... where they can be _king_ or _queen_.
 
