@@ -543,7 +543,7 @@ It depends on whether you mean theoretically, or in practice.
 It also depends on what you mean by "_Bluesky_".
 
 I think the TL;DR answer for most normal (non-technical) people — _no_ Bluesky is _not_ decentralized yet, **but** it looks like Bluesky might be at the start of decentralizing — but it still has a long way to go before it gets there.
-And, some things about Bluesky and the way peopole use it will probably have to change to make it happen.
+And, some things about Bluesky and the way people use it will probably have to change to make it happen.
 
 For example —
 
