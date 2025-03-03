@@ -542,6 +542,8 @@ For example —
 Users _could_ self-host their own Bluesky PDS (personal data server) rather than using a PDS (very generously) provided by the (friendly and nice) Bluesky team — which would help decentralize Bluesky, but — that isn't common yet.
 (As an aside, the company I co-founderd, [SpaceHost](https://spacehost.one/), does provide Bluesky PDS hosting.)
 
+Developers _could_ support actually decentralized DIDs (decentralized identifiers) besides the (ironically) centralized DIDs, DID-PLC and DID-Web — which would help decentralize Bluesky, but — that isn't common yet.
+
 Developers _could_ avoid using the centralized _Firehose-Relay_ that the (friendly and nice) Bluesky team (very generously) provides, and get new posts directly from the the PDSes (personal data servers) of the accounts a user follows (or from any other account of interest) — which would help decentralize Bluesky, but — that isn't common yet.
 It seems like that vast majority of Bluesky (or ATmosphere) users use an application that gets its data from the Bluesky Firehose-Relay.
 
