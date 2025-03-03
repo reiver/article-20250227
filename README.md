@@ -167,6 +167,10 @@ With all this concern and criticism, _why_ is the DOGE doing what it is doing?
 
 ...
 
+...
+
+...
+
 ## “Long Live The Real King”
 
 The AI-generated video is overlayed with the text:
@@ -342,6 +346,10 @@ Some see AI moderation as a panacea.
 With AI moderation it also matter who is effectively in control of what **_you_** do and don't see — **_you_** or someone else?
 
 ## Twitter Files
+
+...
+
+...
 
 ...
 
