@@ -381,7 +381,15 @@ You have a way of escaping — and a way of taking everything important with you
 
 ## Decentralization Has Helped
 
+...
+
+...
+
+...
+
 ## Truth Social
+
+But, what about politicians.
 
 It is perhaps interesting that one of the best examples of a politician using an independent social-media platform — and one based on decentralized social-media (DeSo) technologies — is: President Donland J. Trump on Truth Social.
 
