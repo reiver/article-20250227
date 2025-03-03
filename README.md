@@ -552,7 +552,7 @@ And, some things about Bluesky and the way people use it will probably have to c
 For example —
 
 Users _could_ self-host their own Bluesky PDS (personal data server) rather than using a PDS (very generously) provided by the (friendly and nice) Bluesky team — which would help decentralize Bluesky, but — that isn't common yet.
-(As an aside, the company I co-founderd, SpaceHost, does provide [Bluesky PDS hosting](https://spacehost.one/bluesky_pds).)
+(As an aside, the company I co-founderd, SpaceHost, does provide [Bluesky PDS hosting](https://spacehost.one/bluesky_pds). I am _not_ aware of anyone else doing it. But, I am sure there will be others eventually.)
 
 Developers _could_ support actually decentralized DIDs (decentralized identifiers) besides the (ironically) centralized DIDs, DID-PLC and DID-Web — which would help decentralize Bluesky, but — that isn't common yet.
 
