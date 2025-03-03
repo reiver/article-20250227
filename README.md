@@ -460,7 +460,7 @@ Foot Voting ...
 
 For a society, the ability for an individual to _escape_ or not — seems to determine whether the the society is more _egalitarian_ or more _despotic_ in nature.
 
-The same seems to play out with social-media, too — as well as other forms of online society.
+The seems to also be true of _online societies_ — such as social-media.
 
 Or, metaphorically speaking, as the Hermetic text said:
 
@@ -472,12 +472,13 @@ Or, metaphorically speaking, as the Hermetic text said:
 
 Anthropologist and political scientist James C. Scott (who recently passed away on July 19, 2024) researched how ordinary people resist oppression.
 He talked about how some groups have deliberately retreated to less accessible regions, such as mountainous or forested areas, to avoid control & oppression, and to maintain a degree of autonomy.
+I.e., how people escaped.
 
 Another anthropologist, Christopher Boehm, ...
 
 ... gorillas .. .chimpanzees ... bonobos ... other primates ...
 
-**Decentralization** is a _social-tool_ to enable **escape**.
+**Decentralization** is a _social-tool_ that enables **escape**.
 
 A person who cannot find ... can always create there own social-network server — their own home and castle on the ... where they can be _king_ or _queen_.
 
@@ -497,7 +498,8 @@ DISCLAIMER: I (Charles Iliya Krempeaux) am a co-founder of [SpaceHost](https://s
 ## Is Bluesky Decentralized
 
 Is Bluesky actually decentralized?
-And thus, can you _foot vote_ and _escape_ within Bluesky?
+Can you _foot vote_ within Bluesky?
+Can you _escape_ within Bluesky?
 
 The answer is _not a simple "_yes_" or "_no_".
 
