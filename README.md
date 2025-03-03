@@ -460,9 +460,9 @@ Foot Voting ...
 
 For a society, the ability for an individual to _escape_ or not — seems to determine whether the the society is more _egalitarian_ or more _despotic_ in nature.
 
-The seems to also be true of _online societies_ — such as social-media.
+The also seems to be true of _online societies_ — such as social-media.
 
-Or, metaphorically speaking, as the Hermetic text said:
+Or, metaphorically speaking, as was said in a famous Hermetic text:
 
 > [ENGLISH]  
 > That which is above is like to that which is below, and that which is below is like to that which is above.
@@ -471,18 +471,34 @@ Or, metaphorically speaking, as the Hermetic text said:
 > إن الأعلى من الأسفل والأسفل من الأعلى
 
 Anthropologist and political scientist James C. Scott (who recently passed away on July 19, 2024) researched how ordinary people resist oppression.
-He talked about how some groups have deliberately retreated to less accessible regions, such as mountainous or forested areas, to avoid control & oppression, and to maintain a degree of autonomy.
-I.e., how people escaped.
+He talked about how some groups have deliberately **escaped** to less accessible regions, such as mountainous or forested areas, to avoid control & oppression, and to maintain a degree of autonomy.
 
 Another anthropologist, Christopher Boehm, ...
 
 ... gorillas .. .chimpanzees ... bonobos ... other primates ...
 
 **Decentralization** is a _social-tool_ that enables **escape**.
+The abililty to **escape** is important.
+
+A single server on the decentralized social-media is vulnerable to manipulation, censorship, spying, and control — whether corporate, gov't, political, or any other type — just like centralized social-media.
+
+A single server on the decentralized social-media is also vulnerable to capture & takeover — just like centralized social-media.
+
+But, (unlike centralized social-media) here is the good thing about decentralized social-media (DeSo) —
+
+A user on the decentralized social-media has a way of escaping — to someone else's server or their own server — if they feel things have gotten bad on the server they are on.
+
+And, they can take their followers and who they follow with them, etc, to the new account.
+
+And (eventually) they can take their content with them, too.
+
+That is part of the value of decentralization.
+
+You have a way of escaping — and taking everything important with you.
 
 A person who cannot find ... can always create there own social-network server — their own home and castle on the ... where they can be _king_ or _queen_.
 
-Although a ... can do this all on their own, there are companies that help ....
+In fact, for those looking to **escape** to a server instance of their own, there are companies that help them ...
 —
 these include
 [Masto.Host]()
@@ -501,7 +517,8 @@ Is Bluesky actually decentralized?
 Can you _foot vote_ within Bluesky?
 Can you _escape_ within Bluesky?
 
-The answer is _not a simple "_yes_" or "_no_".
+The answer is _not_ a simple "_yes_" or "_no_".
+
 
 ...
 
