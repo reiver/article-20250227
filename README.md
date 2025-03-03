@@ -587,8 +587,8 @@ To decentralized Bluesky (and the broader ATmosphere) we need all of these 4 thi
 Instead, at least currently, the vast majority of developers building things for Bluesky (and the broader ATmosphere)
 —
 
-* only support the DID-PLC and DID-Web, which, ironically, even though (the commonly supported) DID-PLC and DID-Web are called "_DID_" (i.e., "decentralized identifier") they are **not** decentralized, but are instead centralized,
-* don't directly communicate with users PDS (personal data server),
+* only support the DID-PLC and DID-Web — which, ironically, even though (the commonly supported) DID-PLC and DID-Web are called "_DID_" (i.e., "decentralized identifier") they are **not** decentralized, but are instead centralized,
+* don't directly communicate with users PDS (personal data server) — but, instead use the centralized _Firehose-Relay_ that the (friendly and nice) Bluesky team (very generously) provides,
 * don't host their own _relay_ — but, instead use the centralized _Firehose-Relay_ that the (friendly and nice) Bluesky team (very generously) provides, and
 * don't host their own _AppView_ — but, instead use the centralized BLuesky AppView that they (friendly and nice) Bluesky team (very generously) provides.
 
@@ -620,4 +620,4 @@ And, if you are not already on decentralized-social media — please join 🙂
 [Join Nostr](https://damus.io/),
 [Join Pixelfed](https://pixelfed.org/how-to-join),
 [Join PeerTube](https://joinpeertube.org/),
-etc)
+etc.)
