@@ -458,6 +458,11 @@ Foot Voting ...
 
 ## Escape
 
+For a society, the ability for individuals to _escape_ or not — often determines whether the the society is more _egalitarianism_ or more _despotic_ in nature.
+
+Anthropologist and political scientist James C. Scott (who recently passed away on July 19, 2024) researched how ordinary people resist oppression.
+He talked about how some groups have deliberately retreated to less accessible regions, such as mountainous or forested areas, to avoid control & oppression, and to maintain a degree of autonomy. 
+
 A person who cannot find ... can always create there own social-network server — their own home and castle on the ... where they can be _king_ or _queen_.
 
 Although a ... can do this all on their own, there are companies that help ....
@@ -477,5 +482,9 @@ DISCLAIMER: I (Charles Iliya Krempeaux) am a co-founder of [SpaceHost](https://s
 
 Is Bluesky actually decentralized?
 And thus, can you _foot vote_ and _escape_ within Bluesky?
+
+The answer is _not a simple "_yes_" or "_no_".
+
+...
 
 ...
