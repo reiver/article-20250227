@@ -458,10 +458,14 @@ Foot Voting ...
 
 ## Escape
 
-For a society, the ability for individuals to _escape_ or not — often determines whether the the society is more _egalitarianism_ or more _despotic_ in nature.
+For a society, the ability for an individual to _escape_ or not — seems to determine whether the the society is more _egalitarian_ or more _despotic_ in nature.
 
 Anthropologist and political scientist James C. Scott (who recently passed away on July 19, 2024) researched how ordinary people resist oppression.
-He talked about how some groups have deliberately retreated to less accessible regions, such as mountainous or forested areas, to avoid control & oppression, and to maintain a degree of autonomy. 
+He talked about how some groups have deliberately retreated to less accessible regions, such as mountainous or forested areas, to avoid control & oppression, and to maintain a degree of autonomy.
+
+Another anthropologist, Christopher Boehm, ...
+
+... gorillas .. .chimpanzees ... bonobos ... other primates ...
 
 A person who cannot find ... can always create there own social-network server — their own home and castle on the ... where they can be _king_ or _queen_.
 
