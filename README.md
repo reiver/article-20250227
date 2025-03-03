@@ -523,11 +523,53 @@ disclaimer: I (Charles Iliya Krempeaux) am a co-founder of [SpaceHost](https://s
 ## Is Bluesky Decentralized
 
 Is Bluesky actually decentralized?
-Can you _foot vote_ within Bluesky?
+
+Can you _foot-vote_ within Bluesky?
 Can you _escape_ within Bluesky?
 
 The answer is _not_ a simple "_yes_" or "_no_".
 
+It depends.
+It depends on whether you mean _right now_, or in the future that hasn't happened yet and we cannot be certain about.
+It depends on whether you mean theoretically, or in practice.
+It also depends on what you mean by "_Bluesky_".
+
+"_Bluesky_" versus "_The ATmosphere_" —
+
+Just like the broader social-media network that Mastodon and Meta's Threads are part of it called the **Fediverse**
+—
+the broader social-media network that Bluesky is part of is called the **ATmosphere**.
+Many people will just call this (the _ATmosphere_) "_Bluesky_".
+But, when we are trying to answer the question — _is Bluesky actually Decentralized_ — being specific about which of the multiple things called "_Bluesky_", that we are talking about, matters.
+
+"_Bluesky_" versus "_bksy.app_" —
+
+...
+
+"_Bluesky_" versus "_bksy.social_" —
+
+...
+
+"_Bluesky_" versus "_Bluesky PDS_" —
+
+...
+
+"_Bluesky_" versus "_Bluesky Firehose Reply_" —
+
+...
+
+"_Bluesky_" versus "_Bluesky AppView_" —
+
+...
+
+
+...
+
+
+
+So, is Bluesky's ATmosphere decentralized?
+
+...
 
 ...
 
